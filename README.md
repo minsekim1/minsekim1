@@ -1,16 +1,16 @@
 <!--
 **Mins97/Mins97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+# Campustaxi CTO;
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Working on Campustaxi & Seoul42 Rank02 project
+- 🌱 Learning in [42Seoul](https://42seoul.kr/)
+- 👯 I’m looking to collaborate on Machine Learning
+- 💻 Expertises with C language / Javascript / React-Native / AWS / django / C
+- 👨‍💻 Junior Software Dev 
+- 🏠 Living in Korea - Seoul
+- 📫 How to reach me: tkarnrwl78627862@gmail.com
 -->
 
 ### Hi there 👋 I'm Seoul42 minsekim
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=mins97&count_private=true&show_icons=true&theme=dark)](https://github.com/mins97/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parismart&layout=compact&exclude_repo=ft_server&langs_count=15&theme=highcontrast)](https://github.com/parismart/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsekim&layout=compact&exclude_repo=ft_server&langs_count=15&theme=highcontrast)](https://github.com/minsekim/github-readme-stats)
