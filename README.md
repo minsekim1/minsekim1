@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mins97&layout=compact&exclude_repo=ft_server&langs_count=15&theme=highcontrast)](https://github.com/mins97/github-readme-stats)
 
-# 42Madrid
+# 42Seoul Projects
 
 |   Projects	|  Score	| Type |
 |---	|---	|--- |
