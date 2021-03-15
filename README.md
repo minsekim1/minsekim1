@@ -1,7 +1,6 @@
 <!--
 **Mins97/Mins97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Campustaxi CTO;
 Here are some ideas to get you started:
 
 - 🔭 Working on Campustaxi & Seoul42 Rank02 project
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tkarnrwl78627862@gmail.com
 -->
 
-### Hi there 👋 I'm Seoul42 minsekim
+### Hi there 👋 I'm Campustaxi CTO & Seoul42 Student Minsekim
 
 [![minsekim 42 stats](https://badge42.herokuapp.com/api/stats/minsekim)](https://github.com/JaeSeoKim/badge42)
 
