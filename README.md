@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 👨‍💻 Junior Software Dev 
 - 🏠 Living in Korea - Seoul
 - 📫 How to reach me: tkarnrwl78627862@gmail.com
+
 [![minsekim 42 stats](https://badge42.herokuapp.com/api/stats/minsekim)](https://github.com/JaeSeoKim/badge42)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=mins97&count_private=true&show_icons=true&theme=dark)](https://github.com/mins97/github-readme-stats)
