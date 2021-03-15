@@ -3,14 +3,14 @@
 Here are some ideas to get you started:
 -->
 
-### Hi there 👋 I'm Campustaxi CTO & Seoul42 Student Minsekim
-- 🔭 Working on Campustaxi & Seoul42 Rank02 project
-- 🌱 Learning in [42Seoul](https://42seoul.kr/)
-- 👯 I’m looking to collaborate on Machine Learning
-- 💻 Expertises with C language / Javascript / React-Native / AWS / django / C
-- 👨‍💻 Junior Software Dev 
-- 🏠 Living in Korea - Seoul
-- 📫 How to reach me: tkarnrwl78627862@gmail.com
+### Hi there 👋 I'm Campustaxi CTO & Seoul42 Student Minsekim ;
+- 🔭 Working on [Campustaxi](https://campustaxi.modoo.at/) & Seoul42 Rank02 project ;
+- 🌱 Learning in [42Seoul](https://42seoul.kr/) ;
+- 👯 I’m looking to collaborate on Machine Learning ;
+- 💻 Expertises with C language / Javascript / React-Native / AWS / django / C ;
+- 👨‍💻 Junior Software Dev ;
+- 🏠 Living in Korea - Seoul ;
+- 📫 How to reach me: tkarnrwl78627862@gmail.com ;
 
 [![minsekim 42 stats](https://badge42.herokuapp.com/api/stats/minsekim)](https://github.com/JaeSeoKim/badge42)
 
