@@ -3,24 +3,34 @@
 Here are some ideas to get you started:
 -->
 
-### Hi there 👋 I'm Minsekim ;
-- 👨‍ I'm interesting BlockCoding and I made to [BlocklyJS firebase site](https://blocklyjs.web.app/)
-- 💻 I have enter [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
-- 💻💻 Expertises with C language / Javascript / [React-Native](https://github.com/React-Native-docs/React-Native-docs) / AWS / django / C / firebase;
+# Hi there 👋 I'm Minsekim ;
 - 🏠 Living in Korea - Seoul ;
 - 📫 How to reach me: tkarnrwl78627862@gmail.com ;
 
-
-# Registered group
+## Registered group
 - 🌱 I'm CTO : [Campustaxi](https://campustaxi.modoo.at/)
 - 👯 I'm Cadet [42Seoul](https://42seoul.kr/)
 - 👨‍ I'm Student [Sahmyook University](https://syu.ac.kr)
 - 💻 I'm [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
-- I'm Researcher in [BigLab](https://cafe.naver.com/biglab) about machine learning
+-  I'm Researcher in [BigLab](https://cafe.naver.com/biglab) about machine learning
 
-# Project in progress
+## Project in progress
 - [React Native Docs](https://github.com/React-Native-docs/React-Native-docs)
+- [React Native Campustaxi App](https://github.com/Mins97/CampusTaxi)
+- [ValinaJS 42-Report-Calendar](https://github.com/Mins97/42-Report-Calendar)
 
+## Made
+- This is Hosting [BlocklyJS firebase site](https://blocklyjs.web.app/)
+
+## Experiend
+# Basic Language
+- C language
+# Frontend
+- Javascript / CSS / HTML / React / React-Native
+# Backend
+- AWS
+- Django / Python
+- firebase;
 [![minsekim 42 stats](https://badge42.herokuapp.com/api/stats/minsekim)](https://github.com/JaeSeoKim/badge42)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=mins97&count_private=true&show_icons=true&theme=dark)](https://github.com/mins97/github-readme-stats)
