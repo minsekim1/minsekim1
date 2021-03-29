@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Campustaxi CTO & Seoul42 Student Minsekim ;
 - I'm interesting BlockCoding, made to [BlocklyJS firebase site](https://blocklyjs.web.app/)
-- I have enter DSC PNU(Developer Student Clubs in SYU)
+- I have enter (DSC PNU)[https://sites.google.com/view/dscsahmyook](Developer Student Clubs in SYU)
 - 🔭 Working on [Campustaxi](https://campustaxi.modoo.at/) & Seoul42 Rank02 project ;
 - 🌱 Learning in [42Seoul](https://42seoul.kr/) ;
 - 👯 I’m looking to collaborate on Machine Learning ;
