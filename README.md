@@ -25,19 +25,24 @@ Here are some ideas to get you started:
 ## Experiend
 ### Basic Language
 - C language
+
 ### Frontend
 - Javascript / CSS / HTML / React / React-Native
+
 ### Backend
 - AWS
 - Django / Python
 - firebase;
+
+## 42Seoul Projects
+
 [![minsekim 42 stats](https://badge42.herokuapp.com/api/stats/minsekim)](https://github.com/JaeSeoKim/badge42)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=mins97&count_private=true&show_icons=true&theme=dark)](https://github.com/mins97/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mins97&layout=compact&exclude_repo=ft_server&langs_count=15&theme=highcontrast)](https://github.com/mins97/github-readme-stats)
 
-## 42Seoul Projects
+
 
 |   Projects	|  Score	| Type |
 |---	|---	|--- |
