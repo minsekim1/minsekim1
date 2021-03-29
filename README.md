@@ -4,7 +4,6 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋 I'm Minsekim ;
-- 👯 I'm  Student ;
 - 👨‍ I'm interesting BlockCoding and I made to [BlocklyJS firebase site](https://blocklyjs.web.app/)
 - 💻 I have enter [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
 - 💻💻 Expertises with C language / Javascript / [React-Native](https://github.com/React-Native-docs/React-Native-docs) / AWS / django / C / firebase;
@@ -14,10 +13,14 @@ Here are some ideas to get you started:
 
 # Registered group
 - 🌱 I'm CTO : [Campustaxi](https://campustaxi.modoo.at/)
-- 👯 I'm student [42Seoul](https://42seoul.kr/) & (Sahmyook University)[https://syu.ac.kr]
+- 👯 I'm Cadet [42Seoul](https://42seoul.kr/)
+- 👨‍ I'm Student [Sahmyook University](https://syu.ac.kr)
+- 💻 I'm [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
+- I'm Researcher in [BigLab](https://cafe.naver.com/biglab) about machine learning
+
+# Project in progress
 
 
-- I have enter [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
 [![minsekim 42 stats](https://badge42.herokuapp.com/api/stats/minsekim)](https://github.com/JaeSeoKim/badge42)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=mins97&count_private=true&show_icons=true&theme=dark)](https://github.com/mins97/github-readme-stats)
