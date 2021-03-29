@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 Working on [Campustaxi](https://campustaxi.modoo.at/) & Seoul42 Rank02 project ;
 - 🌱 Learning in [42Seoul](https://42seoul.kr/) ;
 - 👯 I’m looking to collaborate on Machine Learning ;
-- 💻 Expertises with C language / Javascript / React-Native / AWS / django / C / firebase;
+- 💻 Expertises with C language / Javascript / [React-Native](https://github.com/React-Native-docs/React-Native-docs) / AWS / django / C / firebase;
 - 👨‍💻 Junior Software Dev ;
 - 🏠 Living in Korea - Seoul ;
 - 📫 How to reach me: tkarnrwl78627862@gmail.com ;
