@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 - This is Hosting [BlocklyJS firebase site](https://blocklyjs.web.app/)
 
 ## Experiend
-# Basic Language
+### Basic Language
 - C language
-# Frontend
+### Frontend
 - Javascript / CSS / HTML / React / React-Native
-# Backend
+### Backend
 - AWS
 - Django / Python
 - firebase;
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mins97&layout=compact&exclude_repo=ft_server&langs_count=15&theme=highcontrast)](https://github.com/mins97/github-readme-stats)
 
-# 42Seoul Projects
+## 42Seoul Projects
 
 |   Projects	|  Score	| Type |
 |---	|---	|--- |
