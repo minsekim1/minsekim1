@@ -3,17 +3,21 @@
 Here are some ideas to get you started:
 -->
 
-### Hi there 👋 I'm Campustaxi CTO & Seoul42 Student & [SYU Univ.](https://syu.ac.kr) Minsekim ;
-- I'm interesting BlockCoding and I made to [BlocklyJS firebase site](https://blocklyjs.web.app/)
-- I have enter [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
-- 🔭 Working on [Campustaxi](https://campustaxi.modoo.at/) & Seoul42 Rank02 project ;
-- 🌱 Learning in [42Seoul](https://42seoul.kr/) ;
-- 👯 I’m looking to collaborate on Machine Learning ;
-- 💻 Expertises with C language / Javascript / [React-Native](https://github.com/React-Native-docs/React-Native-docs) / AWS / django / C / firebase;
-- 👨‍💻 Junior Software Dev ;
+### Hi there 👋 I'm Minsekim ;
+- 👯 I'm  Student ;
+- 👨‍ I'm interesting BlockCoding and I made to [BlocklyJS firebase site](https://blocklyjs.web.app/)
+- 💻 I have enter [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
+- 💻💻 Expertises with C language / Javascript / [React-Native](https://github.com/React-Native-docs/React-Native-docs) / AWS / django / C / firebase;
 - 🏠 Living in Korea - Seoul ;
 - 📫 How to reach me: tkarnrwl78627862@gmail.com ;
 
+
+# Registered group
+- 🌱 I'm CTO : [Campustaxi](https://campustaxi.modoo.at/)
+- 👯 I'm student [42Seoul](https://42seoul.kr/) & (Sahmyook University)[https://syu.ac.kr]
+
+
+- I have enter [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
 [![minsekim 42 stats](https://badge42.herokuapp.com/api/stats/minsekim)](https://github.com/JaeSeoKim/badge42)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=mins97&count_private=true&show_icons=true&theme=dark)](https://github.com/mins97/github-readme-stats)
