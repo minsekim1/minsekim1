@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 -->
 
-### Hi there 👋 I'm Campustaxi CTO & Seoul42 Student & (SYU Univ.)[https://syu.ac.kr] Minsekim ;
+### Hi there 👋 I'm Campustaxi CTO & Seoul42 Student & [SYU Univ.](https://syu.ac.kr) Minsekim ;
 - I'm interesting BlockCoding and I made to [BlocklyJS firebase site](https://blocklyjs.web.app/)
 - I have enter [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
 - 🔭 Working on [Campustaxi](https://campustaxi.modoo.at/) & Seoul42 Rank02 project ;
