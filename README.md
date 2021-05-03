@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - AWS / EC2 / LoadBalence / Elastic IP / AWS Hosting Route 53
 - Django / Python
 - firebase / FCM
-- nodejs / Express / pm2
+- nodejs / Express / pm2 / Websocket / Realtime Chatting
 
 ## 42Seoul Projects
 
