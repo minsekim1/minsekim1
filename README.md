@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### Backend
 - AWS / EC2 / LoadBalence / Elastic IP / AWS Hosting Route 53
 - Django / Python
-- firebase;
+- firebase / FCM
 - nodejs / Express / pm2
 
 ## 42Seoul Projects
