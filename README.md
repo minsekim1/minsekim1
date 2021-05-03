@@ -30,9 +30,10 @@ Here are some ideas to get you started:
 - Javascript / CSS / HTML / React / React-Native
 
 ### Backend
-- AWS
+- AWS / EC2 / LoadBalence / Elastic IP / AWS Hosting Route 53
 - Django / Python
 - firebase;
+- nodejs / Express / pm2
 
 ## 42Seoul Projects
 
