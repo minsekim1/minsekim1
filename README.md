@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 ## Registered group
 1. 🌱 I'm CTO : [Campustaxi](https://campustaxi.modoo.at/)
 - [GooglePlayStore](https://play.google.com/store/apps/details?id=com.campustaxi.campustaxi&hl=ko&gl=US)
-- [/Homepage](https://campustaxi.modoo.at/)\
-- [/영상소개(앱)](https://www.youtube.com/watch?v=5P2Nu_oR_a4)
-- [/대표소개영상](https://www.youtube.com/watch?v=lEqMnIXH4QA)
+- [Homepage](https://campustaxi.modoo.at/)
+- [영상소개(앱)](https://www.youtube.com/watch?v=5P2Nu_oR_a4)
+- [대표소개영상](https://www.youtube.com/watch?v=lEqMnIXH4QA)
 2. 👯 I'm Cadet [42Seoul](https://42seoul.kr/)
 3. 👨‍ I'm Student [Sahmyook University](https://syu.ac.kr)
 4. 💻 I'm [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
