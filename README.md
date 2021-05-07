@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 ## Project in progress
 - [React Native Docs](https://github.com/React-Native-docs/React-Native-docs)
 - [React Native Campustaxi App](https://github.com/Mins97/CampusTaxi)
-- [ValinaJS 42-Report-Calendar](https://github.com/Mins97/42-Report-Calendar) [Hosting](https://mins97.github.io/42-Report-Calendar/intra/index.html)
 
-## Made
+
+## End Project
 - This is Hosting [BlocklyJS firebase site](https://blocklyjs.web.app/)
+- [ValinaJS 42-Report-Calendar](https://github.com/Mins97/42-Report-Calendar)
+- [ValinaJS 42-Report-Calendar Hosting](https://mins97.github.io/42-Report-Calendar/intra/index.html)
 
 ## Experiend
 ### Basic Language
