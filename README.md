@@ -9,6 +9,10 @@ Here are some ideas to get you started:
 
 ## Registered group
 - 🌱 I'm CTO : [Campustaxi](https://campustaxi.modoo.at/)
+[GooglePlayStore](https://play.google.com/store/apps/details?id=com.campustaxi.campustaxi&hl=ko&gl=US)
+[/Homepage](https://campustaxi.modoo.at/)\
+[/영상소개(앱)](https://www.youtube.com/watch?v=5P2Nu_oR_a4)
+[/대표소개영상](https://www.youtube.com/watch?v=lEqMnIXH4QA)
 - 👯 I'm Cadet [42Seoul](https://42seoul.kr/)
 - 👨‍ I'm Student [Sahmyook University](https://syu.ac.kr)
 - 💻 I'm [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
@@ -44,6 +48,7 @@ Here are some ideas to get you started:
 - T-map APIs (Taxi Cost/disantce/routes)
 - Naver direction5 API
 - Google GCM
+- GooglePlayStore / iOS App Store publishing
 
 ## 42Seoul Projects
 
