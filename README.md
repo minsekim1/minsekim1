@@ -8,25 +8,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tkarnrwl78627862@gmail.com ;
 
 ## Registered group
-- 🌱 I'm CTO : [Campustaxi](https://campustaxi.modoo.at/)
-[GooglePlayStore](https://play.google.com/store/apps/details?id=com.campustaxi.campustaxi&hl=ko&gl=US)
-[/Homepage](https://campustaxi.modoo.at/)\
-[/영상소개(앱)](https://www.youtube.com/watch?v=5P2Nu_oR_a4)
-[/대표소개영상](https://www.youtube.com/watch?v=lEqMnIXH4QA)
-- 👯 I'm Cadet [42Seoul](https://42seoul.kr/)
-- 👨‍ I'm Student [Sahmyook University](https://syu.ac.kr)
-- 💻 I'm [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
--  I'm Researcher in [BigLab](https://cafe.naver.com/biglab) about machine learning
+1. 🌱 I'm CTO : [Campustaxi](https://campustaxi.modoo.at/)
+- [GooglePlayStore](https://play.google.com/store/apps/details?id=com.campustaxi.campustaxi&hl=ko&gl=US)
+- [/Homepage](https://campustaxi.modoo.at/)\
+- [/영상소개(앱)](https://www.youtube.com/watch?v=5P2Nu_oR_a4)
+- [/대표소개영상](https://www.youtube.com/watch?v=lEqMnIXH4QA)
+2. 👯 I'm Cadet [42Seoul](https://42seoul.kr/)
+3. 👨‍ I'm Student [Sahmyook University](https://syu.ac.kr)
+4. 💻 I'm [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
+5.  I'm Researcher in [BigLab](https://cafe.naver.com/biglab) about machine learning
 
 ## Project in progress
-- [React Native Docs](https://github.com/React-Native-docs/React-Native-docs)
-- [React Native Campustaxi App](https://github.com/Mins97/CampusTaxi)
+1. [React Native Docs](https://github.com/React-Native-docs/React-Native-docs)
+2. [React Native Campustaxi App](https://github.com/Mins97/CampusTaxi)
 
 
 ## End Project
-- This is Hosting [BlocklyJS firebase site](https://blocklyjs.web.app/)
-- [ValinaJS 42-Report-Calendar](https://github.com/Mins97/42-Report-Calendar)
-- [ValinaJS 42-Report-Calendar Hosting](https://mins97.github.io/42-Report-Calendar/intra/index.html)
+1. This is Hosting [BlocklyJS firebase site](https://blocklyjs.web.app/)
+2. [ValinaJS 42-Report-Calendar](https://github.com/Mins97/42-Report-Calendar)
+3. [ValinaJS 42-Report-Calendar Hosting](https://mins97.github.io/42-Report-Calendar/intra/index.html)
 
 ## Experiend
 ### Basic Language
@@ -36,19 +36,19 @@ Here are some ideas to get you started:
 - Javascript / CSS / HTML / React / React-Native
 
 ### Backend
-- AWS / EC2 / LoadBalence / Elastic IP / AWS Hosting Route 53
-- Django / Python
-- firebase / FCM / 인앱결제(iap)
-- nodejs / Express / pm2 / Websocket / Realtime Chatting
+1. AWS / EC2 / LoadBalence / Elastic IP / AWS Hosting Route 53
+2. Django / Python
+3. firebase / FCM / 인앱결제(iap)
+4. nodejs / Express / pm2 / Websocket / Realtime Chatting
 
 ### Skills
-- 인앱 결제(React Native)
-- 웹소켓 채팅(실시간)
-- Naver Map(Custom) / Google Map
-- T-map APIs (Taxi Cost/disantce/routes)
-- Naver direction5 API
-- Google GCM
-- GooglePlayStore / iOS App Store publishing
+1. 인앱 결제(React Native)
+2. 웹소켓 채팅(실시간)
+3. Naver Map(Custom) / Google Map
+4. T-map APIs (Taxi Cost/disantce/routes)
+5. Naver direction5 API
+6. Google GCM
+7. GooglePlayStore / iOS App Store publishing
 
 ## 42Seoul Projects
 
