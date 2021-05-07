@@ -34,8 +34,16 @@ Here are some ideas to get you started:
 ### Backend
 - AWS / EC2 / LoadBalence / Elastic IP / AWS Hosting Route 53
 - Django / Python
-- firebase / FCM
+- firebase / FCM / 인앱결제(iap)
 - nodejs / Express / pm2 / Websocket / Realtime Chatting
+
+### Skills
+- 인앱 결제(React Native)
+- 웹소켓 채팅(실시간)
+- Naver Map(Custom) / Google Map
+- T-map APIs (Taxi Cost/disantce/routes)
+- Naver direction5 API
+- Google GCM
 
 ## 42Seoul Projects
 
