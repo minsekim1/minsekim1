@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 1. AWS / EC2 / LoadBalence / Elastic IP / AWS Hosting Route 53
 2. Django / Python
 3. firebase / FCM / 인앱결제(iap)
-4. nodejs / Express / pm2 / Websocket / Realtime Chatting
+4. nodejs / Express / pm2 / Websocket / Realtime Chatting / [[redis]]()
 
 ### Skills
 1. 인앱 결제(React Native)
