@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ## End Project
 1. This is Hosting [BlocklyJS firebase site](https://blocklyjs.web.app/)
 2. [[ValinaJS 42-Report-Calendar]](https://github.com/Mins97/42-Report-Calendar) [[Git Page]](https://mins97.github.io/42-Report-Calendar/) [[EC2 Hosting]](http://42report.today/?id=jo) [[DataUrl]](http://42report.today/intra?id=jo)
+3. 강의평가 사이트 [jsp_evalLectureSite](https://github.com/Mins97/jsp_evalLectureSite)
 
 ## Experiend
 ### Basic Language
@@ -40,6 +41,7 @@ Here are some ideas to get you started:
 2. Django / Python
 3. firebase / FCM / 인앱결제(iap)
 4. nodejs / Express / pm2 / Websocket / Realtime Chatting / [[redis]](https://github.com/Mins97/Mins97-campustaxi-nodejs/blob/minsekim/src/config/redis/redis.ts)
+5. JSP
 
 ### Skills
 1. 인앱 결제(React Native)
@@ -49,6 +51,7 @@ Here are some ideas to get you started:
 5. Naver direction5 API
 6. Google GCM
 7. GooglePlayStore / iOS App Store publishing
+8. JSP / JAVA
 
 ## 42Seoul Projects
 
