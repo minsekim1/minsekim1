@@ -7,6 +7,9 @@ Here are some ideas to get you started:
 - 🏠 Living in Korea - Seoul ;
 - 📫 How to reach me: tkarnrwl78627862@gmail.com ;
 
+# 기술문서 Tech Notion
+- https://ink-wombat-f64.notion.site/f8262160d67a4315873a615d460b2980
+
 ## Registered group
 1. 🌱 I'm CTO : [Campustaxi](https://campustaxi.modoo.at/)
 - [GooglePlayStore](https://play.google.com/store/apps/details?id=com.campustaxi.campustaxi&hl=ko&gl=US)
