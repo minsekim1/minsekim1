@@ -27,9 +27,11 @@ Here are some ideas to get you started:
 
 ## Project in progress
 
-1. Metenet Project
+1. Metenet Project VOD 관리 플랫폼
 <img width="726" alt="스크린샷 2022-05-22 오전 11 31 34" src="https://user-images.githubusercontent.com/23623248/169675806-44a443db-457c-4f77-bb82-cc90fa98b22f.png">
 <img width="716" alt="스크린샷 2022-05-22 오전 11 31 25" src="https://user-images.githubusercontent.com/23623248/169675811-4db926a4-0b6f-493e-aa86-1f665ad4353b.png">
+<img width="1335" alt="스크린샷 2022-05-22 오후 12 39 25" src="https://user-images.githubusercontent.com/23623248/169677389-805b1b1d-2542-466b-abc6-2d59f7f688fe.png">
+
 2. Open Source Project ([OSS](https://www.oss.kr/) &  [Kubernetes Contributor](https://kubernetes.io/ko/docs/home/)
 3. SYU Capstone Deign Project
 
