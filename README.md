@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 -->
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=slsl7862)](https://solved.ac/9507ym)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=slsl7862)](https://solved.ac/slsl7862)
 # Hi there 👋 I'm Minsekim ;
 - 🏠 Living in Korea - Seoul ;
 - 📫 How to reach me: tkarnrwl78627862@gmail.com ;
