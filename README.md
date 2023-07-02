@@ -4,17 +4,25 @@ Here are some ideas to get you started:
 -->
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=slsl7862)](https://solved.ac/slsl7862)
-# Hi there 👋 I'm Minsekim ;
-- 🏠 Living in Korea - Seoul ;
+
+
+# Hi there 👋 I'm minsekim ;
+## 소개
+- 🏠 Living in Seoul, Korea ;
 - 📫 How to reach me: tkarnrwl78627862@gmail.com ;
 
-# 기술문서 Tech Notion
-- https://ink-wombat-f64.notion.site/f8262160d67a4315873a615d460b2980
+## 기술문서 Tech Notion
+- [네이버 블로그](https://m.blog.naver.com/minsekim1) - 335K visitors
+- [일일정리_개발문서 notion](https://ink-wombat-f64.notion.site/f8262160d67a4315873a615d460b2980)
 
-[정리_개발문서.pdf](https://github.com/minsekim1/minsekim1/files/7963502/_.pdf)
+## 저서
+- [복사 & 붙여넣기로 따라 하는 트렌디한 웹앱 서비스 개발](https://fastcampus.co.kr/books/211716)
+  
+## Registered Group
+1. 야기야기 Tech Leader [Yagiyagi](https://yagiyagi.kr/)
 
-## Registered group
-1. 🌱 I'm CTO : [Campustaxi](https://campustaxi.modoo.at/)
+## End Group
+3. 🌱 I'm CTO : [Campustaxi](https://campustaxi.modoo.at/)
 - [GooglePlayStore](https://play.google.com/store/apps/details?id=com.campustaxi.campustaxi&hl=ko&gl=US)
 - [iOSAppStore](https://apps.apple.com/app/id1534509768)
 - [Homepage](https://campustaxi.modoo.at/)
