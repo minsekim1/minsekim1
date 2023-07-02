@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 - [x] GooglePlayStore / iOS App Store publishing
 - [x] JSP / JAVA
 ## Backend Experiend
+- [x] Strapi
 - [x] AWS / EC2 / LoadBalence / Elastic IP / AWS Hosting Route 53
 - [x] Django / Python
 - [x] firebase / FCM / 인앱결제(iap)
