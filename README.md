@@ -6,6 +6,7 @@ Here are some ideas to get you started:
 
 # Intro
 > **Hi there 👋 I'm minsekim**
+---
 - 🏠 Living in Seoul, Korea ;
 - 📫 How to reach me: tkarnrwl78627862@gmail.com ;
 ## 기술문서 Tech Notion
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 - [일일정리_개발문서 notion](https://ink-wombat-f64.notion.site/f8262160d67a4315873a615d460b2980) - one hundred Books Seller
 ## 저서
 - [복사 & 붙여넣기로 따라 하는 트렌디한 웹앱 서비스 개발](https://fastcampus.co.kr/books/211716)
-
+---
 # Activity
 ## Registered Group
 1. I'm 야기야기 Tech Leader - [Yagiyagi](https://yagiyagi.kr/)
@@ -79,7 +80,6 @@ Here are some ideas to get you started:
 ## tier
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=slsl7862)](https://solved.ac/slsl7862)
 ## 42Seoul Projects
-[![minsekim 42 stats](https://badge42.herokuapp.com/api/stats/minsekim)](https://github.com/JaeSeoKim/badge42)
 [![github stats](https://github-readme-stats.vercel.app/api?username=minsekim1&count_private=true&show_icons=true&theme=dark)](https://github.com/mins97/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsekim1&layout=compact&exclude_repo=ft_server&langs_count=15&theme=highcontrast)](https://github.com/mins97/github-readme-stats)
 |   Projects	|  Score	| Type |
