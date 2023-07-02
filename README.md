@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 > **👋 Minsekim, a developer who loves development**
 - 🏠 Living in Seoul, Korea ;
 - 📫 How to reach me: tkarnrwl78627862@gmail.com ;
-## 기술문서 Tech Notion
+## Blog & Docs
 - [네이버 블로그](https://m.blog.naver.com/minsekim1) - 335K visitors
 - [일일정리_개발문서 notion](https://ink-wombat-f64.notion.site/f8262160d67a4315873a615d460b2980) - one hundred Books Seller
 ## 저서
