@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 > **👋 Minsekim, a developer who loves development**
 - [x] 🏠 Living in Seoul, Korea ;
 - [x] 📫 How to reach me: tkarnrwl78627862@gmail.com ;
+- [x] 💘 My Project Portfolio (PDF) [Link]()
 ## Blog & Docs
 - [x] [네이버 블로그](https://m.blog.naver.com/minsekim1) - 335K visitors
 - [x] [일일정리_개발문서 notion](https://ink-wombat-f64.notion.site/f8262160d67a4315873a615d460b2980) - one hundred Books Seller
