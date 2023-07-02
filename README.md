@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ## 저서
 - [복사 & 붙여넣기로 따라 하는 트렌디한 웹앱 서비스 개발](https://fastcampus.co.kr/books/211716)
 ---
-# Activity
+# Group Activity
 ## Registered Group
 1. I'm 야기야기 Tech Leader - [Yagiyagi](https://yagiyagi.kr)
 2. I'm SYU mentor(SahmYook University Capstone Design Mentor) - [Ai pill multi-object recognition](https://www.notion.so/OCR-8dfd799d977a45d98ad79d2da3911dee?pvs=4)
