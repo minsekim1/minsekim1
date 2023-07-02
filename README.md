@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 - [x] AWS / EC2 / LoadBalence / Elastic IP / AWS Hosting Route 53
 - [x] Django / Python
 - [x] firebase / FCM / 인앱결제(iap)
-- [x] pm2 / Websocket / Realtime Chatting / [[redis]](https://github.com/Mins97/Mins97-campustaxi-nodejs/blob/minsekim/src/config/redis/redis.ts)
+- [x] pm2 / Websocket / Realtime Chatting / [redis](https://github.com/Mins97/Mins97-campustaxi-nodejs/blob/minsekim/src/config/redis/redis.ts)
 - [x] JSP
 ---
 # etc.
