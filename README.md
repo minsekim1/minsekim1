@@ -4,22 +4,20 @@ Here are some ideas to get you started:
 -->
 
 
-
+# Intro
 > **Hi there 👋 I'm minsekim**
 - 🏠 Living in Seoul, Korea ;
 - 📫 How to reach me: tkarnrwl78627862@gmail.com ;
-
 ## 기술문서 Tech Notion
 - [네이버 블로그](https://m.blog.naver.com/minsekim1) - 335K visitors
 - [일일정리_개발문서 notion](https://ink-wombat-f64.notion.site/f8262160d67a4315873a615d460b2980) - one hundred Books Seller
-
 ## 저서
 - [복사 & 붙여넣기로 따라 하는 트렌디한 웹앱 서비스 개발](https://fastcampus.co.kr/books/211716)
-  
+
+# Activity
 ## Registered Group
 1. I'm 야기야기 Tech Leader - [Yagiyagi](https://yagiyagi.kr/)
 2. I'm SYU mentor(SahmYook University Capstone Design Mentor) - [Ai pill multi-object recognition](https://www.notion.so/OCR-8dfd799d977a45d98ad79d2da3911dee?pvs=4)
-
 ## End Group
 1. I was Naver Connect Boost Camp Backend mentor (web-site)[https://boostcamp.connect.or.kr] [GitHub](https://github.com/boostcampwm-2022)
 2. 🌱 I was CTO : [Campustaxi](https://campustaxi.modoo.at/)
@@ -33,9 +31,9 @@ Here are some ideas to get you started:
 5. 💻 I was [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
 6. I was Researcher in [BigLab](https://cafe.naver.com/biglab) about machine learning
 
+# Project Activity
 ## Project in progress
 1. I am making that Random Chat Community (space-chat.io)[https://spacechat-io.netlify.app/]
-
 ## End Project
 1. This is Hosting [BlocklyJS firebase site](https://blocklyjs.web.app/)
 2. [[ValinaJS 42-Report-Calendar]](https://github.com/Mins97/42-Report-Calendar) [[Git Page]](https://mins97.github.io/42-Report-Calendar/) [[EC2 Hosting]](http://42report.today/?id=jo) [[DataUrl]](http://42report.today/intra?id=jo)
@@ -50,21 +48,18 @@ Here are some ideas to get you started:
 <img width="1335" alt="스크린샷 2022-05-22 오후 12 39 25" src="https://user-images.githubusercontent.com/23623248/169677389-805b1b1d-2542-466b-abc6-2d59f7f688fe.png">
 9. Open Source Project ([OSS](https://www.oss.kr/) &  [Kubernetes Contributor](https://kubernetes.io/ko/docs/home/)
 
-## Experiend
-### Basic Language
-- C language
+# Experiend Skil
+## Primary Computer Language
+- javasciprt / node.js / react
 
-### Frontend
-- Javascript / CSS / HTML / React / React-Native
+## Framework & Secondary Skils
+- typesciprt / next.js / express
 
-### Backend
-1. AWS / EC2 / LoadBalence / Elastic IP / AWS Hosting Route 53
-2. Django / Python
-3. firebase / FCM / 인앱결제(iap)
-4. nodejs / Express / pm2 / Websocket / Realtime Chatting / [[redis]](https://github.com/Mins97/Mins97-campustaxi-nodejs/blob/minsekim/src/config/redis/redis.ts)
-5. JSP
+## Sub Language
+- C language / CSS / HTML / React-Native
 
-### Skills
+# Experiend Functions
+## Front Experiend
 1. 인앱 결제(React Native)
 2. 웹소켓 채팅(실시간)
 3. Naver Map(Custom) / Google Map
@@ -73,18 +68,20 @@ Here are some ideas to get you started:
 6. Google GCM
 7. GooglePlayStore / iOS App Store publishing
 8. JSP / JAVA
+## Backend Experiend
+1. AWS / EC2 / LoadBalence / Elastic IP / AWS Hosting Route 53
+2. Django / Python
+3. firebase / FCM / 인앱결제(iap)
+4. pm2 / Websocket / Realtime Chatting / [[redis]](https://github.com/Mins97/Mins97-campustaxi-nodejs/blob/minsekim/src/config/redis/redis.ts)
+5. JSP
 
-## 42Seoul Projects
-
-[![minsekim 42 stats](https://badge42.herokuapp.com/api/stats/minsekim)](https://github.com/JaeSeoKim/badge42)
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=minsekim1&count_private=true&show_icons=true&theme=dark)](https://github.com/mins97/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsekim1&layout=compact&exclude_repo=ft_server&langs_count=15&theme=highcontrast)](https://github.com/mins97/github-readme-stats)
-
-
+# etc.
+## tier
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=slsl7862)](https://solved.ac/slsl7862)
-
+## 42Seoul Projects
+[![minsekim 42 stats](https://badge42.herokuapp.com/api/stats/minsekim)](https://github.com/JaeSeoKim/badge42)
+[![github stats](https://github-readme-stats.vercel.app/api?username=minsekim1&count_private=true&show_icons=true&theme=dark)](https://github.com/mins97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsekim1&layout=compact&exclude_repo=ft_server&langs_count=15&theme=highcontrast)](https://github.com/mins97/github-readme-stats)
 |   Projects	|  Score	| Type |
 |---	|---	|--- |
 | Libft | 100 | C project |
