@@ -4,23 +4,23 @@ Here are some ideas to get you started:
 -->
 
 
+
 > **Hi there 👋 I'm minsekim**
-## 소개
 - 🏠 Living in Seoul, Korea ;
 - 📫 How to reach me: tkarnrwl78627862@gmail.com ;
 
-## 기술문서 Tech Notion
+> 기술문서 Tech Notion
 - [네이버 블로그](https://m.blog.naver.com/minsekim1) - 335K visitors
 - [일일정리_개발문서 notion](https://ink-wombat-f64.notion.site/f8262160d67a4315873a615d460b2980) - one hundred Books Seller
 
-## 저서
+> 저서
 - [복사 & 붙여넣기로 따라 하는 트렌디한 웹앱 서비스 개발](https://fastcampus.co.kr/books/211716)
   
-## Registered Group
+> Registered Group
 1. I'm 야기야기 Tech Leader - [Yagiyagi](https://yagiyagi.kr/)
 2. I'm SYU mentor(SahmYook University Capstone Design Mentor) - [Ai pill multi-object recognition](https://www.notion.so/OCR-8dfd799d977a45d98ad79d2da3911dee?pvs=4)
 
-## End Group
+> End Group
 1. 🌱 I was CTO : [Campustaxi](https://campustaxi.modoo.at/)
 - [GooglePlayStore](https://play.google.com/store/apps/details?id=com.campustaxi.campustaxi&hl=ko&gl=US)
 - [iOSAppStore](https://apps.apple.com/app/id1534509768)
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 5.  I was Researcher in [BigLab](https://cafe.naver.com/biglab) about machine learning
 6. Naver Backend mentor 
 
-## Project in progress
+> Project in progress
 
 1. Metenet Project VOD 관리 플랫폼
 <img width="726" alt="스크린샷 2022-05-22 오전 11 31 34" src="https://user-images.githubusercontent.com/23623248/169675806-44a443db-457c-4f77-bb82-cc90fa98b22f.png">
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 2. Open Source Project ([OSS](https://www.oss.kr/) &  [Kubernetes Contributor](https://kubernetes.io/ko/docs/home/)
 3. SYU Capstone Deign Project
 
-## End Project
+> End Project
 1. This is Hosting [BlocklyJS firebase site](https://blocklyjs.web.app/)
 2. [[ValinaJS 42-Report-Calendar]](https://github.com/Mins97/42-Report-Calendar) [[Git Page]](https://mins97.github.io/42-Report-Calendar/) [[EC2 Hosting]](http://42report.today/?id=jo) [[DataUrl]](http://42report.today/intra?id=jo)
 3. 강의평가 사이트 [jsp_evalLectureSite](https://github.com/Mins97/jsp_evalLectureSite)
