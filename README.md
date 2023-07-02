@@ -78,8 +78,10 @@ Here are some ideas to get you started:
 # etc.
 ## Tier
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=slsl7862)](https://solved.ac/slsl7862)
+<br/>
 ## 42Seoul Projects
 [![github stats](https://github-readme-stats.vercel.app/api?username=minsekim1&count_private=true&show_icons=true&theme=dark)](https://github.com/mins97/github-readme-stats)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsekim1&layout=compact&exclude_repo=ft_server&langs_count=15&theme=highcontrast)](https://github.com/mins97/github-readme-stats)
 |   Projects	|  Score	| Type |
 |---	|---	|--- |
