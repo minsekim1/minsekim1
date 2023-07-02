@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ---
 # Experiend Skil
 ## Primary Computer Language
-- javasciprt / node.js / react
+- **javasciprt / node.js / react**
 ## Framework & Secondary Skils
 - typesciprt / next.js / express
 ## Sub Language
@@ -58,8 +58,7 @@ Here are some ideas to get you started:
 ---
 # Experiend Functions
 ## Front Experiend
-[x] 인앱 결제(React Native)
-
+- [x] 인앱 결제(React Native)
 - [x] 웹소켓 채팅(실시간)
 - [x] Naver Map(Custom) / Google Map
 - [x] T-map APIs (Taxi Cost/disantce/routes)
