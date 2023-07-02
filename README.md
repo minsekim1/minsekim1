@@ -49,10 +49,10 @@ Here are some ideas to get you started:
 9. Open Source Project [OSS](https://www.oss.kr) & [Kubernetes Contributor](https://kubernetes.io/ko/docs/home)
 
 ---
-# Experiend Skil
+# Experiend Skill
 ## Primary Computer Language
 - **javasciprt / node.js / react**
-## Framework & Secondary Skils
+## Framework & Secondary Skill
 - typesciprt / next.js / express
 ## Sub Language
 - C language / CSS / HTML / React-Native
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 - [x] JSP
 ---
 # etc.
-## tier
+## Tier
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=slsl7862)](https://solved.ac/slsl7862)
 ## 42Seoul Projects
 [![github stats](https://github-readme-stats.vercel.app/api?username=minsekim1&count_private=true&show_icons=true&theme=dark)](https://github.com/mins97/github-readme-stats)
