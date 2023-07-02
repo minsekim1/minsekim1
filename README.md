@@ -3,10 +3,9 @@
 Here are some ideas to get you started:
 -->
 
-
+---
 # Intro
 > **Hi there 👋 I'm minsekim**
----
 - 🏠 Living in Seoul, Korea ;
 - 📫 How to reach me: tkarnrwl78627862@gmail.com ;
 ## 기술문서 Tech Notion
@@ -31,7 +30,7 @@ Here are some ideas to get you started:
 4. 👨‍ I was Student [Sahmyook University](https://syu.ac.kr)
 5. 💻 I was [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
 6. I was Researcher in [BigLab](https://cafe.naver.com/biglab) about machine learning
-
+---
 # Project Activity
 ## Project in progress
 1. I am making that Random Chat Community (space-chat.io)[https://spacechat-io.netlify.app/]
@@ -48,23 +47,21 @@ Here are some ideas to get you started:
 <img width="716" alt="스크린샷 2022-05-22 오전 11 31 25" src="https://user-images.githubusercontent.com/23623248/169675811-4db926a4-0b6f-493e-aa86-1f665ad4353b.png">
 <img width="1335" alt="스크린샷 2022-05-22 오후 12 39 25" src="https://user-images.githubusercontent.com/23623248/169677389-805b1b1d-2542-466b-abc6-2d59f7f688fe.png">
 9. Open Source Project ([OSS](https://www.oss.kr/) &  [Kubernetes Contributor](https://kubernetes.io/ko/docs/home/)
-
+---
 # Experiend Skil
 ## Primary Computer Language
 - javasciprt / node.js / react
-
 ## Framework & Secondary Skils
 - typesciprt / next.js / express
-
 ## Sub Language
 - C language / CSS / HTML / React-Native
-
+---
 # Experiend Functions
 ## Front Experiend
-1. 인앱 결제(React Native)
-2. 웹소켓 채팅(실시간)
-3. Naver Map(Custom) / Google Map
-4. T-map APIs (Taxi Cost/disantce/routes)
+- [x] 인앱 결제(React Native)
+- [x] 웹소켓 채팅(실시간)
+- [x] Naver Map(Custom) / Google Map
+- [x] T-map APIs (Taxi Cost/disantce/routes)
 5. Naver direction5 API
 6. Google GCM
 7. GooglePlayStore / iOS App Store publishing
@@ -75,7 +72,7 @@ Here are some ideas to get you started:
 3. firebase / FCM / 인앱결제(iap)
 4. pm2 / Websocket / Realtime Chatting / [[redis]](https://github.com/Mins97/Mins97-campustaxi-nodejs/blob/minsekim/src/config/redis/redis.ts)
 5. JSP
-
+---
 # etc.
 ## tier
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=slsl7862)](https://solved.ac/slsl7862)
