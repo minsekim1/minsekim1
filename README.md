@@ -11,25 +11,27 @@ Here are some ideas to get you started:
 
 ## 기술문서 Tech Notion
 - [네이버 블로그](https://m.blog.naver.com/minsekim1) - 335K visitors
-- [일일정리_개발문서 notion](https://ink-wombat-f64.notion.site/f8262160d67a4315873a615d460b2980)
+- [일일정리_개발문서 notion](https://ink-wombat-f64.notion.site/f8262160d67a4315873a615d460b2980) - one hundred Books Seller
 
 ## 저서
 - [복사 & 붙여넣기로 따라 하는 트렌디한 웹앱 서비스 개발](https://fastcampus.co.kr/books/211716)
   
 ## Registered Group
-1. 야기야기 Tech Leader [Yagiyagi](https://yagiyagi.kr/)
+1. I'm 야기야기 Tech Leader - [Yagiyagi](https://yagiyagi.kr/)
+2. I'm SYU mentor(SahmYook University Capstone Design Mentor) - [Ai pill multi-object recognition](https://www.notion.so/OCR-8dfd799d977a45d98ad79d2da3911dee?pvs=4)
 
 ## End Group
-3. 🌱 I'm CTO : [Campustaxi](https://campustaxi.modoo.at/)
+1. 🌱 I was CTO : [Campustaxi](https://campustaxi.modoo.at/)
 - [GooglePlayStore](https://play.google.com/store/apps/details?id=com.campustaxi.campustaxi&hl=ko&gl=US)
 - [iOSAppStore](https://apps.apple.com/app/id1534509768)
 - [Homepage](https://campustaxi.modoo.at/)
 - [영상소개(앱)](https://www.youtube.com/watch?v=5P2Nu_oR_a4)
 - [대표소개영상](https://www.youtube.com/watch?v=lEqMnIXH4QA)
-2. 👯 I'm Cadet [42Seoul](https://42seoul.kr/)
-3. 👨‍ I'm Student [Sahmyook University](https://syu.ac.kr)
-4. 💻 I'm [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
-5.  I'm Researcher in [BigLab](https://cafe.naver.com/biglab) about machine learning
+2. 👯 I was Seoul42 Cadet [42Seoul](https://42seoul.kr/)
+3. 👨‍ I was Student [Sahmyook University](https://syu.ac.kr)
+4. 💻 I was [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
+5.  I was Researcher in [BigLab](https://cafe.naver.com/biglab) about machine learning
+6. Naver Backend mentor 
 
 ## Project in progress
 
