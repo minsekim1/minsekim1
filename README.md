@@ -21,29 +21,22 @@ Here are some ideas to get you started:
 2. I'm SYU mentor(SahmYook University Capstone Design Mentor) - [Ai pill multi-object recognition](https://www.notion.so/OCR-8dfd799d977a45d98ad79d2da3911dee?pvs=4)
 
 ## End Group
-1. 🌱 I was CTO : [Campustaxi](https://campustaxi.modoo.at/)
+1. I was Naver Connect Boost Camp Backend mentor (web-site)[https://boostcamp.connect.or.kr] [GitHub](https://github.com/boostcampwm-2022)
+2. 🌱 I was CTO : [Campustaxi](https://campustaxi.modoo.at/)
 - [GooglePlayStore](https://play.google.com/store/apps/details?id=com.campustaxi.campustaxi&hl=ko&gl=US)
 - [iOSAppStore](https://apps.apple.com/app/id1534509768)
 - [Homepage](https://campustaxi.modoo.at/)
 - [영상소개(앱)](https://www.youtube.com/watch?v=5P2Nu_oR_a4)
 - [대표소개영상](https://www.youtube.com/watch?v=lEqMnIXH4QA)
-2. 👯 I was Seoul42 Cadet [42Seoul](https://42seoul.kr/)
-3. 👨‍ I was Student [Sahmyook University](https://syu.ac.kr)
-4. 💻 I was [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
-5.  I was Researcher in [BigLab](https://cafe.naver.com/biglab) about machine learning
-6. Naver Backend mentor 
+3. 👯 I was Seoul42 Cadet [42Seoul](https://42seoul.kr/)
+4. 👨‍ I was Student [Sahmyook University](https://syu.ac.kr)
+5. 💻 I was [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
+6. I was Researcher in [BigLab](https://cafe.naver.com/biglab) about machine learning
 
 ## Project in progress
+1. I am making that Random Chat Community (space-chat.io)[https://spacechat-io.netlify.app/]
 
-1. Metenet Project VOD 관리 플랫폼
-<img width="726" alt="스크린샷 2022-05-22 오전 11 31 34" src="https://user-images.githubusercontent.com/23623248/169675806-44a443db-457c-4f77-bb82-cc90fa98b22f.png">
-<img width="716" alt="스크린샷 2022-05-22 오전 11 31 25" src="https://user-images.githubusercontent.com/23623248/169675811-4db926a4-0b6f-493e-aa86-1f665ad4353b.png">
-<img width="1335" alt="스크린샷 2022-05-22 오후 12 39 25" src="https://user-images.githubusercontent.com/23623248/169677389-805b1b1d-2542-466b-abc6-2d59f7f688fe.png">
-
-2. Open Source Project ([OSS](https://www.oss.kr/) &  [Kubernetes Contributor](https://kubernetes.io/ko/docs/home/)
-3. SYU Capstone Deign Project
-
-> End Project
+## End Project
 1. This is Hosting [BlocklyJS firebase site](https://blocklyjs.web.app/)
 2. [[ValinaJS 42-Report-Calendar]](https://github.com/Mins97/42-Report-Calendar) [[Git Page]](https://mins97.github.io/42-Report-Calendar/) [[EC2 Hosting]](http://42report.today/?id=jo) [[DataUrl]](http://42report.today/intra?id=jo)
 3. 강의평가 사이트 [jsp_evalLectureSite](https://github.com/Mins97/jsp_evalLectureSite)
@@ -51,6 +44,11 @@ Here are some ideas to get you started:
 5. [React Native Campustaxi App](https://github.com/Mins97/CampusTaxi)
 6. 써클인 [Circlin - Health Chanllenge Community App Service](https://www.circlin.co.kr/)
 7. 써클인 플러스 [Circlin PLUS - Premium Health OTT Service](https://www.circlinplus.co.kr/)
+8. Metenet Project VOD 관리 플랫폼
+<img width="726" alt="스크린샷 2022-05-22 오전 11 31 34" src="https://user-images.githubusercontent.com/23623248/169675806-44a443db-457c-4f77-bb82-cc90fa98b22f.png">
+<img width="716" alt="스크린샷 2022-05-22 오전 11 31 25" src="https://user-images.githubusercontent.com/23623248/169675811-4db926a4-0b6f-493e-aa86-1f665ad4353b.png">
+<img width="1335" alt="스크린샷 2022-05-22 오후 12 39 25" src="https://user-images.githubusercontent.com/23623248/169677389-805b1b1d-2542-466b-abc6-2d59f7f688fe.png">
+9. Open Source Project ([OSS](https://www.oss.kr/) &  [Kubernetes Contributor](https://kubernetes.io/ko/docs/home/)
 
 ## Experiend
 ### Basic Language
