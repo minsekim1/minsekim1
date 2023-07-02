@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 ---
 # Intro
-> **Hi there 👋 I'm minsekim**
+> **👋 Minsekim, a developer who loves development**
 - 🏠 Living in Seoul, Korea ;
 - 📫 How to reach me: tkarnrwl78627862@gmail.com ;
 ## 기술문서 Tech Notion
