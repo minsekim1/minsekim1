@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi there 👋 I'm minsekim ;
+> **Hi there 👋 I'm minsekim**
 ## 소개
 - 🏠 Living in Seoul, Korea ;
 - 📫 How to reach me: tkarnrwl78627862@gmail.com ;
