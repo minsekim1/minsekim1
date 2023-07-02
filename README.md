@@ -63,16 +63,16 @@ Here are some ideas to get you started:
 - [x] 웹소켓 채팅(실시간)
 - [x] Naver Map(Custom) / Google Map
 - [x] T-map APIs (Taxi Cost/disantce/routes)
-5. Naver direction5 API
-6. Google GCM
-7. GooglePlayStore / iOS App Store publishing
-8. JSP / JAVA
+- [x] Naver direction5 API
+- [x] Google GCM
+- [x] GooglePlayStore / iOS App Store publishing
+- [x] JSP / JAVA
 ## Backend Experiend
-1. AWS / EC2 / LoadBalence / Elastic IP / AWS Hosting Route 53
-2. Django / Python
-3. firebase / FCM / 인앱결제(iap)
-4. pm2 / Websocket / Realtime Chatting / [[redis]](https://github.com/Mins97/Mins97-campustaxi-nodejs/blob/minsekim/src/config/redis/redis.ts)
-5. JSP
+- [x] AWS / EC2 / LoadBalence / Elastic IP / AWS Hosting Route 53
+- [x] Django / Python
+- [x] firebase / FCM / 인앱결제(iap)
+- [x] pm2 / Websocket / Realtime Chatting / [[redis]](https://github.com/Mins97/Mins97-campustaxi-nodejs/blob/minsekim/src/config/redis/redis.ts)
+- [x] JSP
 ---
 # etc.
 ## tier
