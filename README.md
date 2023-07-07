@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - [ ] I'm 야기야기 Tech Leader - [Yagiyagi](https://yagiyagi.kr)
 - [ ] I'm SYU mentor(SahmYook University Capstone Design Mentor) - [Ai pill multi-object recognition](https://www.notion.so/OCR-8dfd799d977a45d98ad79d2da3911dee?pvs=4)
 ## End Group
-- [x] I was Naver Connect Boost Camp Backend mentor [web-site](https://boostcamp.connect.or.kr) [GitHub](https://github.com/boostcampwm-2022)
+- [x] I was [Naver Connect Boost Camp](https://boostcamp.connect.or.kr) Backend mentor [GitHub](https://github.com/boostcampwm-2022)
 - [x] 🌱 I was CTO : [Campustaxi](https://campustaxi.modoo.at)
   - [GooglePlayStore](https://play.google.com/store/apps/details?id=com.campustaxi.campustaxi&hl=ko&gl=US)
   - [iOSAppStore](https://apps.apple.com/app/id1534509768)
