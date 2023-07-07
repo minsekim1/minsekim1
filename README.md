@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - [x] 💘 ***My Project Portfolio (PDF)*** [Link](https://github.com/minsekim1/minsekim1/blob/main/minsekim_portfolio.pdf)
 ## Blog & Docs
 - [x] [네이버 블로그](https://m.blog.naver.com/minsekim1) - 335K visitors
-- [x] [일일정리_개발문서 notion](https://ink-wombat-f64.notion.site/f8262160d67a4315873a615d460b2980) - one hundred Books Seller
+- [x] [일일정리_개발문서 notion](https://ink-wombat-f64.notion.site/f8262160d67a4315873a615d460b2980)
 ## 저서
-- [x] [복사 & 붙여넣기로 따라 하는 트렌디한 웹앱 서비스 개발](https://fastcampus.co.kr/books/211716)
+- [x] [복사 & 붙여넣기로 따라 하는 트렌디한 웹앱 서비스 개발](https://fastcampus.co.kr/books/211716) - one hundred Books Seller
 ---
 # Group Activity
 ## Registered Group
