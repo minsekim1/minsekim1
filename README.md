@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 - [x] I was Researcher in [BigLab](https://cafe.naver.com/biglab) about machine learning
 ---
 # Project Activity
-## Project in progress
-- [ ] 🛰 I am making that Random Chat Community [space-chat.io](https://spacechat-io.netlify.app)
 ## End Project
 - [x] This is Hosting [BlocklyJS firebase site](https://blocklyjs.web.app)
 - [x] [ValinaJS 42-Report-Calendar](https://github.com/Mins97/42-Report-Calendar) [Git Page](https://mins97.github.io/42-Report-Calendar) [EC2 Hosting](http://42report.today/?id=jo) [DataUrl](http://42report.today/intra?id=jo)
