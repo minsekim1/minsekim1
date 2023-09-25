@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 - [ ] 2022/07) 💊 I'm 야기야기 Tech Leader - [Yagiyagi](https://www.yagiyagi.kr)
 
 ## End Group
-- [x] 🌱 I was CTO : [Campustaxi](https://campustaxi.modoo.at)
+- [x] ~ 2021/7) 🌱 I was CTO : [Campustaxi](https://campustaxi.modoo.at)
   - [GooglePlayStore](https://play.google.com/store/apps/details?id=com.campustaxi.campustaxi&hl=ko&gl=US)
   - [iOSAppStore](https://apps.apple.com/app/id1534509768)
   - [Homepage](https://campustaxi.modoo.at)
   - [영상소개(앱)](https://www.youtube.com/watch?v=5P2Nu_oR_a4)
   - [대표소개영상](https://www.youtube.com/watch?v=lEqMnIXH4QA)
-- [x] I was Seoul42 Cadet [42Seoul](https://42seoul.kr)
+- [x] ~ 2021/12) I was Seoul42 3rd Cadet [42Seoul](https://42seoul.kr)
 - [x] ~ 2022/03) I was Student [Sahmyook University](https://syu.ac.kr)
 - [x] ~ 2022/03) I was [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
 - [x] ~ 2022/03) 🏫 I was Researcher in [BigLab](https://cafe.naver.com/biglab) about machine learning
