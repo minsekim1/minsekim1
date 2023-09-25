@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 ---
 # Group Activity
 ## Registered Group
-- [ ] 🍁 I'm 야기야기 Tech Leader - [Yagiyagi](https://yagiyagi.kr)
-- [ ] 🏫 I'm SYU mentor(SahmYook University Capstone Design Mentor) - [Ai pill multi-object recognition](https://www.notion.so/OCR-8dfd799d977a45d98ad79d2da3911dee?pvs=4)
+- [ ] 💊 I'm 야기야기 Tech Leader - [Yagiyagi](https://www.yagiyagi.kr)
+
 ## End Group
-- [x] 🚀 I was <b>[Naver Connect Boost Camp](https://boostcamp.connect.or.kr) Backend mentor</b> [GitHub](https://github.com/boostcampwm-2022)
 - [x] 🌱 I was CTO : [Campustaxi](https://campustaxi.modoo.at)
   - [GooglePlayStore](https://play.google.com/store/apps/details?id=com.campustaxi.campustaxi&hl=ko&gl=US)
   - [iOSAppStore](https://apps.apple.com/app/id1534509768)
@@ -28,9 +27,12 @@ Here are some ideas to get you started:
   - [영상소개(앱)](https://www.youtube.com/watch?v=5P2Nu_oR_a4)
   - [대표소개영상](https://www.youtube.com/watch?v=lEqMnIXH4QA)
 - [x] I was Seoul42 Cadet [42Seoul](https://42seoul.kr)
-- [x] I was Student [Sahmyook University](https://syu.ac.kr)
-- [x] I was [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
-- [x] I was Researcher in [BigLab](https://cafe.naver.com/biglab) about machine learning
+- [x] ~ 2022/03) I was Student [Sahmyook University](https://syu.ac.kr)
+- [x] ~ 2022/03) I was [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
+- [x] ~ 2022/03) 🏫 I was Researcher in [BigLab](https://cafe.naver.com/biglab) about machine learning
+- [x] ~ 2022/12) 🏫 I was <b>[Naver Connect Boost Camp](https://boostcamp.connect.or.kr) Backend mentor</b> [GitHub](https://github.com/boostcampwm-2022)
+- [X] ~ 2023/06) 🏫 I'm SYU mentor(SahmYook University Capstone Design Mentor) - [Ai pill multi-object recognition](https://www.notion.so/OCR-8dfd799d977a45d98ad79d2da3911dee?pvs=4)
+
 ---
 # Project Activity
 ## End Project
