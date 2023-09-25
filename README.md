@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ---
 # Group Activity
 ## Registered Group
-- [ ] 2022/07) 💊 I'm 야기야기 Tech Leader - [Yagiyagi](https://www.yagiyagi.kr)
+- [ ] 2022/07 ~) 💊 I'm 야기야기 Tech Leader - [Yagiyagi](https://www.yagiyagi.kr)
 
 ## End Group
 - [x] ~ 2021/7) 🌱 I was CTO : [Campustaxi](https://campustaxi.modoo.at)
