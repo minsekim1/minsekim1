@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ---
 # Group Activity
 ## Registered Group
-- [ ] 💊 I'm 야기야기 Tech Leader - [Yagiyagi](https://www.yagiyagi.kr)
+- [ ] 2022/07) 💊 I'm 야기야기 Tech Leader - [Yagiyagi](https://www.yagiyagi.kr)
 
 ## End Group
 - [x] 🌱 I was CTO : [Campustaxi](https://campustaxi.modoo.at)
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - [x] ~ 2022/03) I was Student [Sahmyook University](https://syu.ac.kr)
 - [x] ~ 2022/03) I was [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
 - [x] ~ 2022/03) 🏫 I was Researcher in [BigLab](https://cafe.naver.com/biglab) about machine learning
+- [x] ~ 2022/06)  I was Front Developer [Circlin](https://www.google.com/search?q=%EC%8D%A8%ED%81%B4%EC%9D%B8&oq=%EC%8D%A8%ED%81%B4%EC%9D%B8&aqs=chrome..69i57j69i59l2.1489j0j7&sourceid=chrome&ie=UTF-8)'s
 - [x] ~ 2022/12) 🏫 I was <b>[Naver Connect Boost Camp](https://boostcamp.connect.or.kr) Backend mentor</b> [GitHub](https://github.com/boostcampwm-2022)
 - [X] ~ 2023/06) 🏫 I'm SYU mentor(SahmYook University Capstone Design Mentor) - [Ai pill multi-object recognition](https://www.notion.so/OCR-8dfd799d977a45d98ad79d2da3911dee?pvs=4)
 
