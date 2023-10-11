@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ## End Group
 - [X] ~ 2023/11) 컴업 DDP, SEOUL +Online GLOBAL STARTUP FESTICAL 포데이웍스 [COMEUP](https://www.comeup.org/stars/alumni)
-- [X] ~ 2023/11) 신스타 외주
-- [X] ~ 2023/08) 리얼라이너 (vercel)[] 외주
+- [X] ~ 2023/11) 신스타 React-Native (홈페이지)[https://www.shinstarr.com] 외주
+- [X] ~ 2023/08) 리얼라이너 Web (vercel)[https://realigner.vercel.app/] 외주
 - [X] ~ 2023/06) 🏫 I'm SYU mentor(SahmYook University Capstone Design Mentor) - [Ai pill multi-object recognition](https://www.notion.so/OCR-8dfd799d977a45d98ad79d2da3911dee?pvs=4)
 - [x] ~ 2022/12) 🏫 I was <b>[Naver Connect Boost Camp](https://boostcamp.connect.or.kr) Backend mentor</b> [GitHub](https://github.com/boostcampwm-2022)
 - [x] ~ 2022/06)  I was Front Developer [Circlin](https://www.google.com/search?q=%EC%8D%A8%ED%81%B4%EC%9D%B8&oq=%EC%8D%A8%ED%81%B4%EC%9D%B8&aqs=chrome..69i57j69i59l2.1489j0j7&sourceid=chrome&ie=UTF-8)'s
