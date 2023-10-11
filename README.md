@@ -3,7 +3,8 @@
 Here are some ideas to get you started:
 -->
 
----
+---![스크린샷 2023-10-10 오전 11 11 26](https://github.com/minsekim1/minsekim1/assets/23623248/4dda2d27-a6af-4908-9987-0103a45ad1a0)
+
 # Intro
 > **👋 Minsekim, a developer who loves development**
 - [x] 🏠 Living in Seoul, Korea ;
@@ -14,6 +15,12 @@ Here are some ideas to get you started:
 - [x] 💾 [일일정리_개발문서 notion](https://ink-wombat-f64.notion.site/f8262160d67a4315873a615d460b2980)
 ## 저서
 - [x] 📘 [복사 & 붙여넣기로 따라 하는 트렌디한 웹앱 서비스 개발](https://fastcampus.co.kr/books/211716) - 0.1K Books Seller
+## 주요 스킬셋
+- [x] Node.js Express.js
+- [x] React Next.js React-Native
+- [x] iOS (Swift) / Android (JAVA)
+## 서브 스킬셋
+- [X] python tensorflowjs JAVA
 ---
 # Group Activity
 ## Registered Group
