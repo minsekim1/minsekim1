@@ -2,8 +2,8 @@
 **Mins97/Mins97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+![스크린샷 2023-10-11 오후 2 35 05](https://github.com/minsekim1/minsekim1/assets/23623248/739926db-8889-4d00-8654-3ed51d2f153a)
 
----![스크린샷 2023-10-10 오전 11 11 26](https://github.com/minsekim1/minsekim1/assets/23623248/4dda2d27-a6af-4908-9987-0103a45ad1a0)
 
 # Intro
 > **👋 Minsekim, a developer who loves development**
