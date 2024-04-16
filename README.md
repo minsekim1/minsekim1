@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ---
 # Group Activity
 ## Registered Group
-- [ ] 2022/07 ~) 💊 I'm 야기야기 Tech Leader - [Yagiyagi](https://www.yagiyagi.kr) & [캠퍼레스트](https://www.camperest.kr/)
+- [ ] 2022/07 ~ 현재) 💊 I'm 야기야기 Tech Leader - [Yagiyagi](https://www.yagiyagi.kr) & [캠퍼레스트](https://www.camperest.kr/)
 
 ## End Group
 - [X] ~ 2023/11) 컴업 DDP, SEOUL +Online GLOBAL STARTUP FESTICAL 포데이웍스 [COMEUP](https://www.comeup.org/stars/alumni)
