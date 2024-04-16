@@ -16,12 +16,16 @@ Here are some ideas to get you started:
 ## 저서
 - [x] 📘 [복사 & 붙여넣기로 따라 하는 트렌디한 웹앱 서비스 개발](https://fastcampus.co.kr/books/211716) - 0.1K Books Seller
 ## 주요 스킬셋
-- [x] BE: Node.js (Express.js)
+- [x] [Main] BE: Node.js (Express.js)
 - [x] FE: React & Next.js & React-Native
 - [x] Native: iOS (Swift) / Android (JAVA)
 - [x] Infra: AWS / Azure
 ## 서브 스킬셋
-- [X] python tensorflowjs JAVA
+- [X] python / tensorflow
+- [X] JAVA
+- [X] C
+
+
 ---
 # Group Activity
 ## Registered Group
