@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - [x] 📘 [복사 & 붙여넣기로 따라 하는 트렌디한 웹앱 서비스 개발](https://fastcampus.co.kr/books/211716) - 0.1K Books Seller
 ## 주요 스킬셋
 - [x] [Main] BE: Node.js (Express.js)
-- [x] FE: React & Next.js & React-Native
+- [x] FE: React(typesciprt) & Next.js & React-Native
 - [x] Native: iOS (Swift) / Android (JAVA)
 - [x] Infra: AWS / Azure
 ## 서브 스킬셋
@@ -72,14 +72,6 @@ Here are some ideas to get you started:
 <img width="400" alt="스크린샷 2022-05-22 오전 11 31 25" src="https://user-images.githubusercontent.com/23623248/169675811-4db926a4-0b6f-493e-aa86-1f665ad4353b.png"/>
 <img width="400" alt="스크린샷 2022-05-22 오후 12 39 25" src="https://user-images.githubusercontent.com/23623248/169677389-805b1b1d-2542-466b-abc6-2d59f7f688fe.png"/>
 
----
-# Experiend Skill
-## Primary Computer Language
-- [x] **javasciprt / node.js / react**
-## Framework & Secondary Skill
-- [x] typesciprt / next.js / express
-## Sub Language
-- [x] C language / CSS / HTML / React-Native
 ---
 # Experiend Functions
 ## Front Experiend
