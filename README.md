@@ -4,33 +4,30 @@ Here are some ideas to get you started:
 -->
 ![스크린샷 2023-10-11 오후 2 35 05](https://github.com/minsekim1/minsekim1/assets/23623248/739926db-8889-4d00-8654-3ed51d2f153a)
 
-
 # Summary
 > **👋 Minsekim, a developer who loves development**
 - [x] 🏠 Living in Seoul, Korea ;
 - [x] 📫 How to reach me: tkarnrwl78627862@gmail.com ;
 - [x] 💘 ***My Project Portfolio (PDF)*** [Link](https://github.com/minsekim1/minsekim1/blob/main/minsekim_portfolio.pdf)
-## Blog & Docs
-- [x] 🏡 [네이버 블로그](https://m.blog.naver.com/minsekim1) - 335K visitors
-- [x] 💾 [일일정리_개발문서 notion](https://ink-wombat-f64.notion.site/f8262160d67a4315873a615d460b2980)
-## 저서
+## My Notes
+- [x] 💾 [Notion](https://minsekim1.notion.site/f8262160d67a4315873a615d460b2980?pvs=4)
+## My Book
 - [x] 📘 [복사 & 붙여넣기로 따라 하는 트렌디한 웹앱 서비스 개발](https://fastcampus.co.kr/books/211716) - 0.1K Books Seller
-## Main Skills
-- [x] [Main] BE: Node.js (Express.js)
-- [x] FE: React(typesciprt) & Next.js & React-Native
-- [x] Native: iOS (Swift) / Android (JAVA)
-- [x] Infra: AWS / Azure
-## Sub Skills
-- [X] python / tensorflow
-- [X] JAVA
-- [X] C
+## My Main Skills
+1. BE - Node.js & Express.js
+2. Infra: AWS / Azure
+3. FE: React(typesciprt) & Next.js & React-Native
+4. Native: iOS (Swift) / Android (JAVA)
 
+## My Sub Skills
+- [X] python / JAVA / C
 
 ---
+
 # Detail Career History
 
 ## Education
-- [x] 2018/03 ~ 2023/03 ) Seoul [Sahmyook University](https://www.syu.ac.kr/) Graduated
+- [x] 2018/03 ~ 2023/03 ) Seoul [Sahmyook University](https://www.syu.ac.kr/) Computer Engineering Bachelor of science - Graduated
 - [x] 2010/03 ~ 2016/02 ) Seoul [Kwangwoon Electronics Technical High School](https://kwangwoon.sen.hs.kr/)
 - [x] ~ 2010/02 ) Seoul [Hwagye Elementary School](https://hwagye.sen.es.kr/)
 
@@ -43,15 +40,20 @@ Here are some ideas to get you started:
 - [X] 2023/03 ~ 2023/06 ) 🏫 2023 SahmYook University Capstone Design Mentor (AI) - [Ai pill multi-object recognition](https://www.notion.so/OCR-8dfd799d977a45d98ad79d2da3911dee?pvs=4) [Github](https://github.com/SWproject-syu)
 - [x] 2022/10 ~ 2022/12 ) 🏫 2022 Naver Connect Boost Camp Mentor (B/E) - [Link](https://boostcamp.connect.or.kr) [GitHub](https://github.com/boostcampwm-2022)
 
+## Research
+- [x] 2020/04 ~ 2022/12 ) 🏫 Undergraduate researcher in [BigLab](https://cafe.naver.com/biglab) for AI
+
 ## Awards
-- [X] 2023/11 ) 스타트업 글로벌 경진대회 컴업 (40/200)위권 진입 (GLOBAL STARTUP FESTICAL) - 포데이웍스 팀 [COMEUP](https://www.comeup.org/stars/alumni)
+- [X] 2023/11 ) 스타트업 글로벌 경진대회 컴업 (GLOBAL STARTUP FESTICAL) 포데이웍스 팀 - (40/200)위권 진입 [Link](https://www.comeup.org/stars/alumni)
+- [X] 2020.11 ) 삼육대 학부경진대회 (캠퍼스택시) - 특별상
+- [X] 2020 ) 인덕대학교 캠퍼스타운 (I-CULTURE-DU) - 최우수상 1등상
+- [X] 2020/05 ) 2020 KC대학교 학생 창업유망팀 300 경진대회 - 장려상 2등상
+- [X] 2020/04 ) 2019 강북구 청년도전 프로젝트 - Passed
+- [X] 2019 ) 서울시립대 창업 경진대회 - 3등상
 
 ## Outsourcing
 - [X] 2023/08 ~ 2023/11 ) 신스타 F/E React-Native [Client-APP](https://play.google.com/store/apps/details?id=com.shinstarr.clientapp) And [Drive-APP](https://play.google.com/store/apps/details?id=com.olhso.driver.app) development
 - [X] 2023/06 ~ 2023/08 ) 리얼라이너 F/E [Admin-Web](https://realigner.vercel.app/) development
-
-## Research
-- [x] 2020/04 ~ 2022/12 ) 🏫 Undergraduate researcher in [BigLab](https://cafe.naver.com/biglab) for AI
 
 ## Clubs
 - [x] ~ 2022/03 ) Developer Student Clubs in SYU ([DSC PNU](https://sites.google.com/view/dscsahmyook))
