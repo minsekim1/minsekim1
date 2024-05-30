@@ -9,13 +9,16 @@ Here are some ideas to get you started:
 - [x] 🏠 Living in Seoul, Korea ;
 - [x] 📫 How to reach me: tkarnrwl78627862@gmail.com ;
 - [x] 💘 ***My Project Portfolio (PDF)*** [Link](https://github.com/minsekim1/minsekim1/blob/main/minsekim_portfolio.pdf)
+
 ## My Notes
 - [x] 💾 [Notion](https://minsekim1.notion.site/f8262160d67a4315873a615d460b2980?pvs=4)
+
 ## My Book
 - [x] 📘 [복사 & 붙여넣기로 따라 하는 트렌디한 웹앱 서비스 개발](https://fastcampus.co.kr/books/211716) - 0.1K Books Seller
+
 ## My Main Skills
-1. BE - Node.js & Express.js
-2. Infra: AWS / Azure
+1. BE - Node.js & Express.js / MySQL8
+2. Infra: AWS / Ubuntu / Linux
 3. FE: React(typesciprt) & Next.js & React-Native
 4. Native: iOS (Swift) / Android (JAVA)
 
@@ -60,14 +63,8 @@ Here are some ideas to get you started:
 - [x] ~ 2021/12 ) Seoul42 3rd Cadet [42Seoul](https://42seoul.kr)
 - [x] ~ 2021/07 ) startup CTO for Campustaxi Corporation [Android App](https://play.google.com/store/apps/details?id=com.campustaxi.campustaxi&hl=ko&gl=US) [iOS App](https://apps.apple.com/app/id1534509768) [website](https://campustaxi.modoo.at) [Youtube1](https://www.youtube.com/watch?v=5P2Nu_oR_a4) [Youtube2](https://www.youtube.com/watch?v=lEqMnIXH4QA)
 
-
-
-
-
-
-
-
 ---
+
 # Project Activity
 ## End Project
 - [x] This is Hosting [BlocklyJS firebase site](https://blocklyjs.web.app)
@@ -84,6 +81,7 @@ Here are some ideas to get you started:
 <img width="400" alt="스크린샷 2022-05-22 오후 12 39 25" src="https://user-images.githubusercontent.com/23623248/169677389-805b1b1d-2542-466b-abc6-2d59f7f688fe.png"/>
 
 ---
+
 # Experiend Functions
 ## Front Experiend
 - [x] 인앱 결제(React Native)
@@ -94,6 +92,7 @@ Here are some ideas to get you started:
 - [x] Google GCM
 - [x] GooglePlayStore / iOS App Store publishing
 - [x] JSP / JAVA
+
 ## Backend Experiend
 - [x] Strapi
 - [x] AWS / EC2 / LoadBalence / Elastic IP / AWS Hosting Route 53
@@ -101,7 +100,9 @@ Here are some ideas to get you started:
 - [x] firebase / FCM / 인앱결제(iap)
 - [x] pm2 / Websocket / Realtime Chatting / [redis](https://github.com/Mins97/Mins97-campustaxi-nodejs/blob/minsekim/src/config/redis/redis.ts)
 - [x] JSP
+
 ---
+
 # etc.
 ## Tier
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=slsl7862)](https://solved.ac/slsl7862)
