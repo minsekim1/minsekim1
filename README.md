@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## Company history
 - [x] 2022/07 ~ now ) 👨‍💻🏕️ <b> 4dayworks Inc. </b> Tech Leader - [Yagiyagi](https://www.yagiyagi.kr) & [캠퍼레스트](https://www.camperest.kr/)
-- [x] 2021/07 ~ 2022/04 ) 🖥️🏋 Front Developer [Circlin](https://www.google.com/search?q=%EC%8D%A8%ED%81%B4%EC%9D%B8&oq=%EC%8D%A8%ED%81%B4%EC%9D%B8&aqs=chrome..69i57j69i59l2.1489j0j7&sourceid=chrome&ie=UTF-8)'s
+- [x] 2021/07 ~ 2022/04 ) 🖥️🏋 Front Developer [Circlin](https://www.google.com/search?q=%EC%8D%A8%ED%81%B4%EC%9D%B8&oq=%EC%8D%A8%ED%81%B4%EC%9D%B8&aqs=chrome..69i57j69i59l2.1489j0j7&sourceid=chrome&ie=UTF-8)
 
 ## Mentoring
 - [X] 2024/03 ~ 2024/06 ) 🏫 2024 SahmYook University Capstone Design Mentor - [DB Personalization - Search & Recommendation Logic Implementation](https://minsekim1.notion.site/DB-47a6af268ef742f5a498df3948759e40?pvs=4) [Github](https://github.com/SWproject-syu/capstone-2024-DB-search)
