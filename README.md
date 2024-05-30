@@ -37,18 +37,17 @@ Here are some ideas to get you started:
 - [x] 2022/10 ~ 2022/12) 🏫 <b>[Naver Connect Boost Camp](https://boostcamp.connect.or.kr) Backend mentor</b> [GitHub](https://github.com/boostcampwm-2022)
 
 ## Company history
-- [x] ~ 2022/06)  Front Developer [Circlin](https://www.google.com/search?q=%EC%8D%A8%ED%81%B4%EC%9D%B8&oq=%EC%8D%A8%ED%81%B4%EC%9D%B8&aqs=chrome..69i57j69i59l2.1489j0j7&sourceid=chrome&ie=UTF-8)'s
+- [x] 2021/07 ~ 2022/04) 🖥️🏋 Front Developer [Circlin](https://www.google.com/search?q=%EC%8D%A8%ED%81%B4%EC%9D%B8&oq=%EC%8D%A8%ED%81%B4%EC%9D%B8&aqs=chrome..69i57j69i59l2.1489j0j7&sourceid=chrome&ie=UTF-8)'s
 
 ## Awards
 - [X] 2023/11) 스타트업 글로벌 경진대회 컴업 (40/200)등 진입 (GLOBAL STARTUP FESTICAL) - 포데이웍스 팀 [COMEUP](https://www.comeup.org/stars/alumni)
 
 ## Outsourcing
-- [X] 2023/08 ~ 2023/11) 신스타 React-Native [Client-APP](https://play.google.com/store/apps/details?id=com.shinstarr.clientapp) And [Drive-APP](https://play.google.com/store/apps/details?id=com.olhso.driver.app) development
-- [X] 2023/06 ~ 2023/08) 리얼라이너 [Admin-Web](https://realigner.vercel.app/) development
+- [X] 2023/08 ~ 2023/11) 신스타 F/E React-Native [Client-APP](https://play.google.com/store/apps/details?id=com.shinstarr.clientapp) And [Drive-APP](https://play.google.com/store/apps/details?id=com.olhso.driver.app) development
+- [X] 2023/06 ~ 2023/08) 리얼라이너 F/E [Admin-Web](https://realigner.vercel.app/) development
 
-
-
-- [x] ~ 2022/03) 🏫 I was Researcher in [BigLab](https://cafe.naver.com/biglab) about machine learning
+## Research
+- [x] 2020/04 ~ 2022/03) 🏫 Undergraduate researcher in [BigLab](https://cafe.naver.com/biglab) for AI
 - [x] ~ 2022/03) I was [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
 - [x] ~ 2022/03) I was Student [Sahmyook University](https://syu.ac.kr)
 - [x] ~ 2021/12) I was Seoul42 3rd Cadet [42Seoul](https://42seoul.kr)
