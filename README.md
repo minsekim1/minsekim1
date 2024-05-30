@@ -6,7 +6,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/minsekim1/minsekim1/assets/23623248/ff701424-487e-4536-a847-1fa79c38c022" alt="Group 2"/>
 </div>
 
-# 목차
+# Summary
 - [1. Summary](#1-summary)
   - [1-1. My Notes](#1-1-my-notes)
   - [1-2. My Book](#1-2-my-book)
