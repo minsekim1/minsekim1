@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   - [3-1. End Project](#3-1-end-project)
 - [4. Experienced Functions](#4-experienced-functions)
   - [4-1. Backend Experienced](#4-1-backend-Experienced)
-  - [4-2. Frontend Experienced](#4-2-frontend-Experienced)
+  - [4-2. Frontend Experienced](#4-2-front-experienced)
 - [5. etc.](#5-etc)
 
 # #1. Summary
