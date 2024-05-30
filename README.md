@@ -27,10 +27,7 @@ Here are some ideas to get you started:
    - [Clubs](#2-7-clubs)
 3. [Project Activity](#3-project-activity)
    - [End Project](#3-1-end-project)
-4. [Experienced Functions](#4-experienced-functions)
-   - [Backend Experience](#4-1-backend-experience)
-   - [Frontend Experience](#4-2-frontend-experience)
-5. [etc.](#5-etc) 
+4. [etc.](#5-etc) 
 
 # #1. Summary
 ## #1-1. My Notes
@@ -104,22 +101,7 @@ Here are some ideas to get you started:
 
 ---
 
-# #4. Experienced Functions
-## #4-1. Backend Experience
-1. B/E - firebase / FCM / 인앱결제(iap) / pm2 / Websocket / Realtime Chatting / [redis](https://github.com/Mins97/Mins97-campustaxi-nodejs/blob/minsekim/src/config/redis/redis.ts)
-2. B/E Tool - Strapi
-3. Infra - AWS / EC2 / LoadBalence / Elastic IP / AWS Hosting Route 53
-4. Language - Django / Python
-
-## #4-2. Frontend Experience
-1. React Native - In-APP purchase / websocket / Naver Map(Custom) / Google Map / T-map APIs (Taxi Cost/disantce/routes) / Naver direction5 API
-2. Native - GooglePlayStore / iOS App Store publishing
-3. Common - Google GCM
-4. Language - JSP / JAVA
-
----
-
-# #5. etc.
+# #4. etc.
 <table>
   <tr>
     <td align="center">
