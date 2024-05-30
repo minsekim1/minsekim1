@@ -6,6 +6,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/minsekim1/minsekim1/assets/23623248/ff701424-487e-4536-a847-1fa79c38c022" alt="Group 2"/>
 </div>
 
+> **👋 Minsekim, a developer who loves development**
+- [x] 🏠 Living in Seoul, Korea ;
+- [x] 📫 How to reach me: tkarnrwl78627862@gmail.com ;
+- [x] 💘 ***My Project Portfolio (PDF)*** [Link](https://github.com/minsekim1/minsekim1/blob/main/minsekim_portfolio.pdf)
+
 # Table of Contents
 1. [Summary](#1-summary)
    - [My Notes](#2-my-notes)
@@ -28,23 +33,15 @@ Here are some ideas to get you started:
 5. [etc.](#9-etc)
 
 # #1. Summary
-> **👋 Minsekim, a developer who loves development**
-- [x] 🏠 Living in Seoul, Korea ;
-- [x] 📫 How to reach me: tkarnrwl78627862@gmail.com ;
-- [x] 💘 ***My Project Portfolio (PDF)*** [Link](https://github.com/minsekim1/minsekim1/blob/main/minsekim_portfolio.pdf)
-
 ## #1-1. My Notes
 - [x] 💾 [Notion](https://minsekim1.notion.site/f8262160d67a4315873a615d460b2980?pvs=4)
-
 ## #1-2. My Book
 - [x] 📘 [복사 & 붙여넣기로 따라 하는 트렌디한 웹앱 서비스 개발](https://fastcampus.co.kr/books/211716) - 0.1K Books Seller
-
 ## #1-3. My Main Skills
 1. BE - Node.js & Express.js / MySQL8
 2. Infra: AWS / Ubuntu / Linux
 3. FE: React(typesciprt) & Next.js & React-Native
 4. Native: iOS (Swift) / Android (JAVA)
-
 ## #1-4. My Sub Skills
 - [X] python / JAVA / C
 
