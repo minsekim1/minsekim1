@@ -105,13 +105,13 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td align="center">
-      <h2>Tier</h2>
+      <h2>Solved.ac Tier</h2>
       <a href="https://solved.ac/slsl7862">
         <img src="http://mazassumnida.wtf/api/generate_badge?boj=slsl7862" alt="solved.ac tier"/>
       </a>
     </td>
     <td align="center">
-      <h2>42Seoul Projects</h2>
+      <h2>Git Stats</h2>
       <a href="https://github.com/mins97/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=minsekim1&count_private=true&show_icons=true&theme=dark" alt="github stats"/>
       </a>
@@ -124,25 +124,3 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-
-|   Projects	|  Score	| Type |
-|---	|---	|--- |
-| Libft | 100 | C project |
-| Get_Next_Line	| 115 | C project |
-| Printf	| 100 | C project |
-| NetWhat | 100 | Network |
-| Exam_Rank_02 |  | Exam |
-| ft_server | 100 | Docker |
-| Cub3D | 100 | Raycasting - C project |
-| Exam_Rank_03 | 0 | Exam |
-| libasm | 0 | Assambler |
-| ft_services | 0 | Kubernetes |
-| Minishell |  | C project |
-| Exam_Rank_04 | --- | Exam |
-| Philosophers |  | C project |
-| Piscine C++ |  | C++ |
-| Exam_Rank_05 |  | Exam |
-| ft_container | | C++ |
-| web_server | | C++ |
-| Exam_Rank_06 |  | Exam |
-| ft_transcendence | | Final project |
