@@ -42,7 +42,9 @@ Here are some ideas to get you started:
 ## #1-4. My Sub Skills
 - [X] python / JAVA / C
 
+
 ---
+
 
 # #2. Detail Career History
 
@@ -80,7 +82,9 @@ Here are some ideas to get you started:
 - [x] ~ 2021/12 ) Seoul42 3rd Cadet [42Seoul](https://42seoul.kr)
 - [x] ~ 2021/07 ) startup CTO for Campustaxi Corporation [Android App](https://play.google.com/store/apps/details?id=com.campustaxi.campustaxi&hl=ko&gl=US) [iOS App](https://apps.apple.com/app/id1534509768) [website](https://campustaxi.modoo.at) [Youtube1](https://www.youtube.com/watch?v=5P2Nu_oR_a4) [Youtube2](https://www.youtube.com/watch?v=lEqMnIXH4QA)
 
+
 ---
+
 
 # #3. Project Activity
 ## #3-1. End Project
@@ -99,7 +103,9 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+
 ---
+
 
 # #4. etc.
 <table>
