@@ -4,9 +4,14 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <img src="https://github.com/minsekim1/minsekim1/assets/23623248/ff701424-487e-4536-a847-1fa79c38c022" alt="Group 2"/>
+  <br/>
+  <br/>
+  <div>
+    <blockquote style="color:red;">👋 Minsekim, a developer who loves development</blockquote>
+    <br/>
+  </div>
 </div>
 
-> **👋 Minsekim, a developer who loves development**
 - [x] 🏠 Living in Seoul, Korea ;
 - [x] 📫 How to reach me: tkarnrwl78627862@gmail.com ;
 - [x] 💘 ***My Project Portfolio (PDF)*** [Link](https://github.com/minsekim1/minsekim1/blob/main/minsekim_portfolio.pdf)
