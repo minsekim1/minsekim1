@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 ![스크린샷 2023-10-11 오후 2 35 05](https://github.com/minsekim1/minsekim1/assets/23623248/739926db-8889-4d00-8654-3ed51d2f153a)
 
 
-# Intro
+# Summary
 > **👋 Minsekim, a developer who loves development**
 - [x] 🏠 Living in Seoul, Korea ;
 - [x] 📫 How to reach me: tkarnrwl78627862@gmail.com ;
@@ -15,48 +15,48 @@ Here are some ideas to get you started:
 - [x] 💾 [일일정리_개발문서 notion](https://ink-wombat-f64.notion.site/f8262160d67a4315873a615d460b2980)
 ## 저서
 - [x] 📘 [복사 & 붙여넣기로 따라 하는 트렌디한 웹앱 서비스 개발](https://fastcampus.co.kr/books/211716) - 0.1K Books Seller
-## 주요 스킬셋
+## Main Skills
 - [x] [Main] BE: Node.js (Express.js)
 - [x] FE: React(typesciprt) & Next.js & React-Native
 - [x] Native: iOS (Swift) / Android (JAVA)
 - [x] Infra: AWS / Azure
-## 서브 스킬셋
+## Sub Skills
 - [X] python / tensorflow
 - [X] JAVA
 - [X] C
 
 
 ---
-# Group Activity
-## Registered Group
-- [ ] 2022/07 ~ 현재) 🏕️ I'm <b> 4dayworks Inc. </b> Tech Leader - [Yagiyagi](https://www.yagiyagi.kr) & [캠퍼레스트](https://www.camperest.kr/)
+# Detail Career History
 
-## Mentoring
-- [X] 2024/03 ~ 2024/06) 🏫 SYU mentor(SahmYook University Capstone Design Mentor) - [DB Personalization - Search & Recommendation Logic Implementation](https://minsekim1.notion.site/DB-47a6af268ef742f5a498df3948759e40?pvs=4) [Github](https://github.com/SWproject-syu/capstone-2024-DB-search)
-- [X] 2023/03 ~ 2023/06) 🏫 SYU mentor(SahmYook University Capstone Design Mentor) - [Ai pill multi-object recognition](https://www.notion.so/OCR-8dfd799d977a45d98ad79d2da3911dee?pvs=4) Github(https://github.com/SWproject-syu)
-- [x] 2022/10 ~ 2022/12) 🏫 <b>[Naver Connect Boost Camp](https://boostcamp.connect.or.kr) Backend mentor</b> [GitHub](https://github.com/boostcampwm-2022)
+## Education
+- [x] 2018/03 ~ 2023/03 ) Seoul [Sahmyook University](https://www.syu.ac.kr/) Graduated
+- [x] 2010/03 ~ 2016/02 ) Seoul [Kwangwoon Electronics Technical High School](https://kwangwoon.sen.hs.kr/)
+- [x] ~ 2010/02 ) Seoul [Hwagye Elementary School](https://hwagye.sen.es.kr/)
 
 ## Company history
-- [x] 2021/07 ~ 2022/04) 🖥️🏋 Front Developer [Circlin](https://www.google.com/search?q=%EC%8D%A8%ED%81%B4%EC%9D%B8&oq=%EC%8D%A8%ED%81%B4%EC%9D%B8&aqs=chrome..69i57j69i59l2.1489j0j7&sourceid=chrome&ie=UTF-8)'s
+- [x] 2022/07 ~ now ) 👨‍💻🏕️ <b> 4dayworks Inc. </b> Tech Leader - [Yagiyagi](https://www.yagiyagi.kr) & [캠퍼레스트](https://www.camperest.kr/)
+- [x] 2021/07 ~ 2022/04 ) 🖥️🏋 Front Developer [Circlin](https://www.google.com/search?q=%EC%8D%A8%ED%81%B4%EC%9D%B8&oq=%EC%8D%A8%ED%81%B4%EC%9D%B8&aqs=chrome..69i57j69i59l2.1489j0j7&sourceid=chrome&ie=UTF-8)'s
+
+## Mentoring
+- [X] 2024/03 ~ 2024/06 ) 🏫 2024 SahmYook University Capstone Design Mentor - [DB Personalization - Search & Recommendation Logic Implementation](https://minsekim1.notion.site/DB-47a6af268ef742f5a498df3948759e40?pvs=4) [Github](https://github.com/SWproject-syu/capstone-2024-DB-search)
+- [X] 2023/03 ~ 2023/06 ) 🏫 2023 SahmYook University Capstone Design Mentor - [Ai pill multi-object recognition](https://www.notion.so/OCR-8dfd799d977a45d98ad79d2da3911dee?pvs=4) Github(https://github.com/SWproject-syu)
+- [x] 2022/10 ~ 2022/12 ) 🏫 2022 <b>[Naver Connect Boost Camp](https://boostcamp.connect.or.kr) Backend mentor</b> [GitHub](https://github.com/boostcampwm-2022)
 
 ## Awards
-- [X] 2023/11) 스타트업 글로벌 경진대회 컴업 (40/200)등 진입 (GLOBAL STARTUP FESTICAL) - 포데이웍스 팀 [COMEUP](https://www.comeup.org/stars/alumni)
+- [X] 2023/11 ) 스타트업 글로벌 경진대회 컴업 (40/200)위권 진입 (GLOBAL STARTUP FESTICAL) - 포데이웍스 팀 [COMEUP](https://www.comeup.org/stars/alumni)
 
 ## Outsourcing
-- [X] 2023/08 ~ 2023/11) 신스타 F/E React-Native [Client-APP](https://play.google.com/store/apps/details?id=com.shinstarr.clientapp) And [Drive-APP](https://play.google.com/store/apps/details?id=com.olhso.driver.app) development
-- [X] 2023/06 ~ 2023/08) 리얼라이너 F/E [Admin-Web](https://realigner.vercel.app/) development
+- [X] 2023/08 ~ 2023/11 ) 신스타 F/E React-Native [Client-APP](https://play.google.com/store/apps/details?id=com.shinstarr.clientapp) And [Drive-APP](https://play.google.com/store/apps/details?id=com.olhso.driver.app) development
+- [X] 2023/06 ~ 2023/08 ) 리얼라이너 F/E [Admin-Web](https://realigner.vercel.app/) development
 
 ## Research
-- [x] 2020/04 ~ 2022/03) 🏫 Undergraduate researcher in [BigLab](https://cafe.naver.com/biglab) for AI
-- [x] ~ 2022/03) I was [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
-- [x] ~ 2022/03) I was Student [Sahmyook University](https://syu.ac.kr)
-- [x] ~ 2021/12) I was Seoul42 3rd Cadet [42Seoul](https://42seoul.kr)
-- [x] ~ 2021/7) 🌱 I was CTO : [Campustaxi](https://campustaxi.modoo.at)
-  - [GooglePlayStore](https://play.google.com/store/apps/details?id=com.campustaxi.campustaxi&hl=ko&gl=US)
-  - [iOSAppStore](https://apps.apple.com/app/id1534509768)
-  - [Homepage](https://campustaxi.modoo.at)
-  - [영상소개(앱)](https://www.youtube.com/watch?v=5P2Nu_oR_a4)
-  - [대표소개영상](https://www.youtube.com/watch?v=lEqMnIXH4QA)
+- [x] 2020/04 ~ 2022/12 ) 🏫 Undergraduate researcher in [BigLab](https://cafe.naver.com/biglab) for AI
+
+## Clubs
+- [x] ~ 2022/03 ) Developer Student Clubs in SYU ([DSC PNU](https://sites.google.com/view/dscsahmyook))
+- [x] ~ 2021/12 ) Seoul42 3rd Cadet [42Seoul](https://42seoul.kr)
+- [x] ~ 2021/07 ) startup CTO for Campustaxi Corporation [Android App](https://play.google.com/store/apps/details?id=com.campustaxi.campustaxi&hl=ko&gl=US) [iOS App](https://apps.apple.com/app/id1534509768) [website](https://campustaxi.modoo.at) [Youtube1](https://www.youtube.com/watch?v=5P2Nu_oR_a4) [Youtube2](https://www.youtube.com/watch?v=lEqMnIXH4QA)
 
 
 
