@@ -31,15 +31,23 @@ Here are some ideas to get you started:
 ## Registered Group
 - [ ] 2022/07 ~ 현재) 🏕️ I'm <b> 4dayworks Inc. </b> Tech Leader - [Yagiyagi](https://www.yagiyagi.kr) & [캠퍼레스트](https://www.camperest.kr/)
 
-## End Group
-### Mentoring
-- [X] 2024/03/01 ~ 2024/05/31) 삼육대 캡스톤디자인 산학협력체 멘토 [DB Personalization - Search & Recommendation Logic Implementation](https://minsekim1.notion.site/DB-47a6af268ef742f5a498df3948759e40?pvs=4) [Github]()
-- [X] 2023/11) 컴업 DDP, SEOUL +Online GLOBAL STARTUP FESTICAL 포데이웍스 [COMEUP](https://www.comeup.org/stars/alumni)
+## Mentoring
+- [X] 2024/03 ~ 2024/06) 🏫 SYU mentor(SahmYook University Capstone Design Mentor) - [DB Personalization - Search & Recommendation Logic Implementation](https://minsekim1.notion.site/DB-47a6af268ef742f5a498df3948759e40?pvs=4) [Github](https://github.com/SWproject-syu/capstone-2024-DB-search)
+- [X] 2023/03 ~ 2023/06) 🏫 SYU mentor(SahmYook University Capstone Design Mentor) - [Ai pill multi-object recognition](https://www.notion.so/OCR-8dfd799d977a45d98ad79d2da3911dee?pvs=4) Github(https://github.com/SWproject-syu)
+- [x] 2022/10 ~ 2022/12) 🏫 <b>[Naver Connect Boost Camp](https://boostcamp.connect.or.kr) Backend mentor</b> [GitHub](https://github.com/boostcampwm-2022)
+
+## Company history
+- [x] ~ 2022/06)  Front Developer [Circlin](https://www.google.com/search?q=%EC%8D%A8%ED%81%B4%EC%9D%B8&oq=%EC%8D%A8%ED%81%B4%EC%9D%B8&aqs=chrome..69i57j69i59l2.1489j0j7&sourceid=chrome&ie=UTF-8)'s
+
+## Awards
+- [X] 2023/11) 스타트업 글로벌 경진대회 컴업 (40/200)등 진입 (GLOBAL STARTUP FESTICAL) - 포데이웍스 팀 [COMEUP](https://www.comeup.org/stars/alumni)
+
+## Outsourcing
 - [X] 2023/08 ~ 2023/11) 신스타 React-Native [Client-APP](https://play.google.com/store/apps/details?id=com.shinstarr.clientapp) And [Drive-APP](https://play.google.com/store/apps/details?id=com.olhso.driver.app) development
 - [X] 2023/06 ~ 2023/08) 리얼라이너 [Admin-Web](https://realigner.vercel.app/) development
-- [X] 2023/03 ~ 2023/06) 🏫 I'm SYU mentor(SahmYook University Capstone Design Mentor) - [Ai pill multi-object recognition](https://www.notion.so/OCR-8dfd799d977a45d98ad79d2da3911dee?pvs=4)
-- [x] ~ 2022/12) 🏫 I was <b>[Naver Connect Boost Camp](https://boostcamp.connect.or.kr) Backend mentor</b> [GitHub](https://github.com/boostcampwm-2022)
-- [x] ~ 2022/06)  I was Front Developer [Circlin](https://www.google.com/search?q=%EC%8D%A8%ED%81%B4%EC%9D%B8&oq=%EC%8D%A8%ED%81%B4%EC%9D%B8&aqs=chrome..69i57j69i59l2.1489j0j7&sourceid=chrome&ie=UTF-8)'s
+
+
+
 - [x] ~ 2022/03) 🏫 I was Researcher in [BigLab](https://cafe.naver.com/biglab) about machine learning
 - [x] ~ 2022/03) I was [DSC PNU](https://sites.google.com/view/dscsahmyook)(Developer Student Clubs in SYU)
 - [x] ~ 2022/03) I was Student [Sahmyook University](https://syu.ac.kr)
