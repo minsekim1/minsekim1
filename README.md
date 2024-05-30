@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - [3. Project Activity](#3-project-activity)
   - [3-1. End Project](#3-1-end-project)
 - [4. Experienced Functions](#4-experienced-functions)
-  - [4-1. Backend Experience](#4-1-backend-experience)
-  - [4-2. Frontend Experience](#4-2-frontend-experience)
+  - [4-1. Backend Experienced](#4-1-backend-Experienced)
+  - [4-2. Frontend Experienced](#4-2-frontend-Experienced)
 - [5. etc.](#5-etc)
 
 # #1. Summary
@@ -107,14 +107,14 @@ Here are some ideas to get you started:
 
 ---
 
-# #4. Experiend Functions
-## #4-1. Backend Experiend
+# #4. Experienced Functions
+## #4-1. Backend Experienced
 1. B/E - firebase / FCM / 인앱결제(iap) / pm2 / Websocket / Realtime Chatting / [redis](https://github.com/Mins97/Mins97-campustaxi-nodejs/blob/minsekim/src/config/redis/redis.ts)
 2. B/E Tool - Strapi
 3. Infra - AWS / EC2 / LoadBalence / Elastic IP / AWS Hosting Route 53
 4. Language - Django / Python
 
-## #4-2. Front Experiend
+## #4-2. Front Experienced
 1. React Native - In-APP purchase / websocket / Naver Map(Custom) / Google Map / T-map APIs (Taxi Cost/disantce/routes) / Naver direction5 API
 2. Native - GooglePlayStore / iOS App Store publishing
 3. Common - Google GCM
