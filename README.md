@@ -35,13 +35,13 @@ Here are some ideas to get you started:
 - [x] ~ 2010/02 ) Seoul [Hwagye Elementary School](https://hwagye.sen.es.kr/)
 
 ## Company history
-- [x] 2022/07 ~ now ) 👨‍💻🏕️ <b> 4dayworks Inc. </b> Tech Leader - [Yagiyagi](https://www.yagiyagi.kr) & [캠퍼레스트](https://www.camperest.kr/)
-- [x] 2021/07 ~ 2022/04 ) 🖥️🏋 Front Developer [Circlin](https://www.google.com/search?q=%EC%8D%A8%ED%81%B4%EC%9D%B8&oq=%EC%8D%A8%ED%81%B4%EC%9D%B8&aqs=chrome..69i57j69i59l2.1489j0j7&sourceid=chrome&ie=UTF-8)
+- [x] 2022/07 ~ now ) 👨‍💻🏕️ Tech Leader - 4dayworks Inc. (Service1: [Yagiyagi](https://www.yagiyagi.kr), Service2: [캠퍼레스트](https://www.camperest.kr/))
+- [x] 2021/07 ~ 2022/04 ) 🖥️🏋 F/E developer [Circlin](https://www.google.com/search?q=%EC%8D%A8%ED%81%B4%EC%9D%B8&oq=%EC%8D%A8%ED%81%B4%EC%9D%B8&aqs=chrome..69i57j69i59l2.1489j0j7&sourceid=chrome&ie=UTF-8)
 
 ## Mentoring
-- [X] 2024/03 ~ 2024/06 ) 🏫 2024 SahmYook University Capstone Design Mentor - [DB Personalization - Search & Recommendation Logic Implementation](https://minsekim1.notion.site/DB-47a6af268ef742f5a498df3948759e40?pvs=4) [Github](https://github.com/SWproject-syu/capstone-2024-DB-search)
-- [X] 2023/03 ~ 2023/06 ) 🏫 2023 SahmYook University Capstone Design Mentor - [Ai pill multi-object recognition](https://www.notion.so/OCR-8dfd799d977a45d98ad79d2da3911dee?pvs=4) Github(https://github.com/SWproject-syu)
-- [x] 2022/10 ~ 2022/12 ) 🏫 2022 <b>[Naver Connect Boost Camp](https://boostcamp.connect.or.kr) Backend mentor</b> [GitHub](https://github.com/boostcampwm-2022)
+- [X] 2024/03 ~ 2024/06 ) 🏫 2024 SahmYook University Capstone Design Mentor (AI) - [DB Personalization - Search & Recommendation Logic Implementation](https://minsekim1.notion.site/DB-47a6af268ef742f5a498df3948759e40?pvs=4) [Github](https://github.com/SWproject-syu/capstone-2024-DB-search)
+- [X] 2023/03 ~ 2023/06 ) 🏫 2023 SahmYook University Capstone Design Mentor (AI) - [Ai pill multi-object recognition](https://www.notion.so/OCR-8dfd799d977a45d98ad79d2da3911dee?pvs=4) [Github](https://github.com/SWproject-syu)
+- [x] 2022/10 ~ 2022/12 ) 🏫 2022 Naver Connect Boost Camp Mentor (B/E) - [Link](https://boostcamp.connect.or.kr) [GitHub](https://github.com/boostcampwm-2022)
 
 ## Awards
 - [X] 2023/11 ) 스타트업 글로벌 경진대회 컴업 (40/200)위권 진입 (GLOBAL STARTUP FESTICAL) - 포데이웍스 팀 [COMEUP](https://www.comeup.org/stars/alumni)
