@@ -5,7 +5,6 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github.com/minsekim1/minsekim1/assets/23623248/ff701424-487e-4536-a847-1fa79c38c022" alt="Group 2"/>
 </div>
-
 > **👋 Minsekim, a developer who loves development**
 - [x] 🏠 Living in Seoul, Korea ;
 - [x] 📫 How to reach me: tkarnrwl78627862@gmail.com ;
@@ -13,24 +12,24 @@ Here are some ideas to get you started:
 
 # Table of Contents
 1. [Summary](#1-summary)
-   - [My Notes](#2-my-notes)
-   - [My Book](#3-my-book)
-   - [My Main Skills](#4-my-main-skills)
-   - [My Sub Skills](#5-my-sub-skills)
-2. [Detail Career History](#6-detail-career-history)
-   - [Education](#education)
-   - [Company History](#company-history)
-   - [Mentoring](#mentoring)
-   - [Research](#research)
-   - [Awards](#awards)
-   - [Outsourcing](#outsourcing)
-   - [Clubs](#clubs)
-3. [Project Activity](#7-project-activity)
-   - [End Project](#end-project)
-4. [Experienced Functions](#8-experienced-functions)
-   - [Backend Experience](#backend-experience)
-   - [Frontend Experience](#frontend-experience)
-5. [etc.](#9-etc)
+   - [My Notes](#1-1-my-notes)
+   - [My Book](#1-2-my-book)
+   - [My Main Skills](#1-3-my-main-skills)
+   - [My Sub Skills](#1-4-my-sub-skills)
+2. [Detail Career History](#2-detail-career-history)
+   - [Education](#2-1-education)
+   - [Company History](#2-2-company-history)
+   - [Mentoring](#2-3-mentoring)
+   - [Research](#2-4-research)
+   - [Awards](#2-5-awards)
+   - [Outsourcing](#2-6-outsourcing)
+   - [Clubs](#2-7-clubs)
+3. [Project Activity](#3-project-activity)
+   - [End Project](#3-1-end-project)
+4. [Experienced Functions](#4-experienced-functions)
+   - [Backend Experience](#4-1-backend-experience)
+   - [Frontend Experience](#4-2-frontend-experience)
+5. [etc.](#5-etc) 
 
 # #1. Summary
 ## #1-1. My Notes
@@ -54,7 +53,7 @@ Here are some ideas to get you started:
 - [x] 2010/03 ~ 2016/02 ) Seoul [Kwangwoon Electronics Technical High School](https://kwangwoon.sen.hs.kr/)
 - [x] ~ 2010/02 ) Seoul [Hwagye Elementary School](https://hwagye.sen.es.kr/)
 
-## #2-2. Company history
+## #2-2. Company History
 - [x] 2022/07 ~ now ) 👨‍💻🏕️ Tech Leader - 4dayworks Inc. (Service1: [Yagiyagi](https://www.yagiyagi.kr), Service2: [캠퍼레스트](https://www.camperest.kr/))
 - [x] 2021/07 ~ 2022/04 ) 🖥️🏋 F/E developer [Circlin](https://www.google.com/search?q=%EC%8D%A8%ED%81%B4%EC%9D%B8&oq=%EC%8D%A8%ED%81%B4%EC%9D%B8&aqs=chrome..69i57j69i59l2.1489j0j7&sourceid=chrome&ie=UTF-8)
 
@@ -105,13 +104,13 @@ Here are some ideas to get you started:
 ---
 
 # #4. Experienced Functions
-## #4-1. Backend Experienced
+## #4-1. Backend Experience
 1. B/E - firebase / FCM / 인앱결제(iap) / pm2 / Websocket / Realtime Chatting / [redis](https://github.com/Mins97/Mins97-campustaxi-nodejs/blob/minsekim/src/config/redis/redis.ts)
 2. B/E Tool - Strapi
 3. Infra - AWS / EC2 / LoadBalence / Elastic IP / AWS Hosting Route 53
 4. Language - Django / Python
 
-## #4-2. Front Experienced
+## #4-2. Frontend Experience
 1. React Native - In-APP purchase / websocket / Naver Map(Custom) / Google Map / T-map APIs (Taxi Cost/disantce/routes) / Naver direction5 API
 2. Native - GooglePlayStore / iOS App Store publishing
 3. Common - Google GCM
@@ -142,3 +141,4 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
