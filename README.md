@@ -6,6 +6,27 @@ Here are some ideas to get you started:
   <img src="https://github.com/minsekim1/minsekim1/assets/23623248/ff701424-487e-4536-a847-1fa79c38c022" alt="Group 2"/>
 </div>
 
+# 목차
+- [1. Summary](#1-summary)
+  - [1-1. My Notes](#1-1-my-notes)
+  - [1-2. My Book](#1-2-my-book)
+  - [1-3. My Main Skills](#1-3-my-main-skills)
+  - [1-4. My Sub Skills](#1-4-my-sub-skills)
+- [2. Detail Career History](#2-detail-career-history)
+  - [2-1. Education](#2-1-education)
+  - [2-2. Company History](#2-2-company-history)
+  - [2-3. Mentoring](#2-3-mentoring)
+  - [2-4. Research](#2-4-research)
+  - [2-5. Awards](#2-5-awards)
+  - [2-6. Outsourcing](#2-6-outsourcing)
+  - [2-7. Clubs](#2-7-clubs)
+- [3. Project Activity](#3-project-activity)
+  - [3-1. End Project](#3-1-end-project)
+- [4. Experienced Functions](#4-experienced-functions)
+  - [4-1. Backend Experience](#4-1-backend-experience)
+  - [4-2. Frontend Experience](#4-2-frontend-experience)
+- [5. etc.](#5-etc)
+
 # #1. Summary
 > **👋 Minsekim, a developer who loves development**
 - [x] 🏠 Living in Seoul, Korea ;
@@ -101,7 +122,7 @@ Here are some ideas to get you started:
 
 ---
 
-# etc.
+# #5. etc.
 <table>
   <tr>
     <td align="center">
