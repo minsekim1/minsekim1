@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 ---
 
 
-# #3. Project Activity
+# #3. Private Project Activity
 ## #3-1. End Project
 1. This is Hosting [BlocklyJS firebase site](https://blocklyjs.web.app)
 2. [ValinaJS 42-Report-Calendar](https://github.com/Mins97/42-Report-Calendar) [Git Page](https://mins97.github.io/42-Report-Calendar) [EC2 Hosting](http://42report.today/?id=jo) [DataUrl](http://42report.today/intra?id=jo)
