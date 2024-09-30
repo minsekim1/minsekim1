@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 - [x] 2021/07 ~ 2022/04 ) 🖥️🏋 F/E developer [Circlin](https://www.google.com/search?q=%EC%8D%A8%ED%81%B4%EC%9D%B8&oq=%EC%8D%A8%ED%81%B4%EC%9D%B8&aqs=chrome..69i57j69i59l2.1489j0j7&sourceid=chrome&ie=UTF-8)
 
 ## #2-3. Mentoring
+- [x] 2024/06 ~ 2024/11 ) 🏫 2024 Kakao Tech Campus (Boost Camp) Mentor (F/E) - [Link](https://www.kakaotechcampus.com/) [GitHub](https://github.com/kakao-tech-campus-2nd-step2)
 - [X] 2024/03 ~ 2024/06 ) 🏫 2024 Sahmyook University Capstone Design Mentor (AI) - [DB Personalization - Search & Recommendation Logic Implementation](https://minsekim1.notion.site/DB-47a6af268ef742f5a498df3948759e40?pvs=4) [Github](https://github.com/SWproject-syu/capstone-2024-DB-search)
 - [X] 2023/03 ~ 2023/06 ) 🏫 2023 Sahmyook University Capstone Design Mentor (AI) - [Ai pill multi-object recognition](https://www.notion.so/OCR-8dfd799d977a45d98ad79d2da3911dee?pvs=4) [Github](https://github.com/SWproject-syu)
 - [x] 2022/10 ~ 2022/12 ) 🏫 2022 Naver Connect Boost Camp Mentor (B/E) - [Link](https://boostcamp.connect.or.kr) [GitHub](https://github.com/boostcampwm-2022)
