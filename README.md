@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ## #1-1. My Notes
 - [x] 💾 [Notion](https://minsekim1.notion.site/f8262160d67a4315873a615d460b2980?pvs=4)
 ## #1-2. My Book
-- [x] 📘 [복사 & 붙여넣기로 따라 하는 트렌디한 웹앱 서비스 개발](https://fastcampus.co.kr/books/211716) - 0.1K Books Seller
+- [x] 📘 [복사 & 붙여넣기로 따라 하는 트렌디한 웹앱 서비스 개발](https://fastcampus.co.kr/books/211716)
 ## #1-3. My Main Skills
 1. BE - Node.js & Express.js / MySQL8
 2. Infra: AWS / Ubuntu / Linux
@@ -53,14 +53,14 @@ Here are some ideas to get you started:
 
 # #2. Detail Career History
 
-## #2-1. Education
+## #2-1. Company History
+- [x] 2022/07 ~ 2024/12 ) 👨‍💻🏕️ Tech Leader - 4dayworks Inc. (Service1: [Yagiyagi](https://www.yagiyagi.kr), Service2: [캠퍼레스트](https://www.camperest.kr/))
+- [x] 2021/07 ~ 2022/04 ) 🖥️🏋 F/E developer [Circlin](https://www.google.com/search?q=%EC%8D%A8%ED%81%B4%EC%9D%B8&oq=%EC%8D%A8%ED%81%B4%EC%9D%B8&aqs=chrome..69i57j69i59l2.1489j0j7&sourceid=chrome&ie=UTF-8)
+
+## #2-2. Education
 - [x] 2018/03 ~ 2023/03 ) Seoul [Sahmyook University](https://www.syu.ac.kr/) Computer Engineering Bachelor of science - Graduated
 - [x] 2010/03 ~ 2016/02 ) Seoul [Kwangwoon Electronics Technical High School](https://kwangwoon.sen.hs.kr/)
 - [x] ~ 2010/02 ) Seoul [Hwagye Elementary School](https://hwagye.sen.es.kr/)
-
-## #2-2. Company History
-- [x] 2022/07 ~ now ) 👨‍💻🏕️ Tech Leader - 4dayworks Inc. (Service1: [Yagiyagi](https://www.yagiyagi.kr), Service2: [캠퍼레스트](https://www.camperest.kr/))
-- [x] 2021/07 ~ 2022/04 ) 🖥️🏋 F/E developer [Circlin](https://www.google.com/search?q=%EC%8D%A8%ED%81%B4%EC%9D%B8&oq=%EC%8D%A8%ED%81%B4%EC%9D%B8&aqs=chrome..69i57j69i59l2.1489j0j7&sourceid=chrome&ie=UTF-8)
 
 ## #2-3. Mentoring
 - [x] 2024/06 ~ 2024/11 ) 🏫 2024 Kakao Tech Campus (Boost Camp) Mentor (F/E) - [Link](https://www.kakaotechcampus.com/) [GitHub](https://github.com/kakao-tech-campus-2nd-step2)
