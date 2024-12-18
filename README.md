@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 # #2. Detail Career History
 
 ## #2-1. Company History
-- [x] 2022/07 ~ 2024/12 ) 👨‍💻🏕️ Tech Leader - 4dayworks Inc. (Service1: [Yagiyagi](https://www.yagiyagi.kr), Service2: [캠퍼레스트](https://www.camperest.kr/))
+- [x] 2022/06/20 ~ 2024/12/31 ) 👨‍💻🏕️ Tech Leader - 4dayworks Inc. (Service1: [Yagiyagi](https://www.yagiyagi.kr), Service2: [캠퍼레스트](https://www.camperest.kr/))
 - [x] 2021/07 ~ 2022/04 ) 🖥️🏋 F/E developer [Circlin](https://www.google.com/search?q=%EC%8D%A8%ED%81%B4%EC%9D%B8&oq=%EC%8D%A8%ED%81%B4%EC%9D%B8&aqs=chrome..69i57j69i59l2.1489j0j7&sourceid=chrome&ie=UTF-8)
 
 ## #2-2. Education
