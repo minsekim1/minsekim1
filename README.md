@@ -47,20 +47,18 @@ Here are some ideas to get you started:
 
 ---
 
+# Detail History
 
-
-# #2. Detail Career History
-
-## #2-1. Mentoring
+## Mentoring
 - [x] 2024/06 ~ 2024/11 ) 🏫 2024 Kakao Tech Campus 2기 Mentor (F/E) - [Link](https://www.kakaotechcampus.com/) [GitHub](https://github.com/kakao-tech-campus-2nd-step2)
 - [X] 2024/03 ~ 2024/06 ) 🏫 2024 Sahmyook University Capstone Design Mentor (AI) - [DB Personalization - Search & Recommendation Logic Implementation](https://minsekim1.notion.site/DB-47a6af268ef742f5a498df3948759e40?pvs=4) [Github](https://github.com/SWproject-syu/capstone-2024-DB-search)
 - [X] 2023/03 ~ 2023/06 ) 🏫 2023 Sahmyook University Capstone Design Mentor (AI) - [Ai pill multi-object recognition](https://www.notion.so/OCR-8dfd799d977a45d98ad79d2da3911dee?pvs=4) [Github](https://github.com/SWproject-syu)
 - [x] 2022/10 ~ 2022/12 ) 🏫 2022 Naver Connect Boost Camp 웹모바일 7기 Mentor (B/E) - [Link](https://boostcamp.connect.or.kr) [GitHub](https://github.com/boostcampwm-2022)
 
-## #2-2. Research
+## Research
 - [x] 2020/04 ~ 2022/12 ) 🏫 Undergraduate researcher in [BigLab](https://cafe.naver.com/biglab) for AI
 
-## #2-3. Awards
+## Awards
 - [X] 2023/11 ) 스타트업 글로벌 경진대회 컴업 (GLOBAL STARTUP FESTICAL) 포데이웍스 팀 - (40/200)위권 진입 [Link](https://www.comeup.org/stars/alumni)
 - [X] 2020.11 ) 삼육대 학부경진대회 (캠퍼스택시) - 특별상
 - [X] 2020 ) 인덕대학교 캠퍼스타운 (I-CULTURE-DU) - 최우수상 1등상
@@ -68,11 +66,11 @@ Here are some ideas to get you started:
 - [X] 2020/04 ) 2019 강북구 청년도전 프로젝트 - Passed
 - [X] 2019 ) 서울시립대 창업 경진대회 - 3등상
 
-## #2-4. Outsourcing
+## Outsourcing
 - [X] 2023/08 ~ 2023/11 ) 신스타 F/E React-Native [Client-APP](https://play.google.com/store/apps/details?id=com.shinstarr.clientapp) And [Drive-APP](https://play.google.com/store/apps/details?id=com.olhso.driver.app) development
 - [X] 2023/06 ~ 2023/08 ) 리얼라이너 F/E [Admin-Web](https://realigner.vercel.app/) development
 
-## #2-5. Clubs
+## Clubs
 - [x] ~ 2022/03 ) Developer Student Clubs in SYU ([DSC PNU](https://sites.google.com/view/dscsahmyook))
 - [x] ~ 2021/12 ) Seoul42 3rd Cadet [42Seoul](https://42seoul.kr)
 - [x] ~ 2021/07 ) startup CTO for Campustaxi Corporation [Android App](https://play.google.com/store/apps/details?id=com.campustaxi.campustaxi&hl=ko&gl=US) [iOS App](https://apps.apple.com/app/id1534509768) [website](https://campustaxi.modoo.at) [Youtube1](https://www.youtube.com/watch?v=5P2Nu_oR_a4) [Youtube2](https://www.youtube.com/watch?v=lEqMnIXH4QA)
@@ -81,8 +79,8 @@ Here are some ideas to get you started:
 ---
 
 
-# #3. Private Project Activity
-## #3-1. End Project
+# Private Project Activity
+## Project
 1. This is Hosting [BlocklyJS firebase site](https://blocklyjs.web.app)
 2. [ValinaJS 42-Report-Calendar](https://github.com/Mins97/42-Report-Calendar) [Git Page](https://mins97.github.io/42-Report-Calendar) [EC2 Hosting](http://42report.today/?id=jo) [DataUrl](http://42report.today/intra?id=jo)
 3. 강의평가 사이트 [jsp_evalLectureSite](https://github.com/Mins97/jsp_evalLectureSite)
