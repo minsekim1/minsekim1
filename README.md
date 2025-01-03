@@ -12,66 +12,55 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-- [x] 🏠 Living in Seoul, Korea ;
-- [x] 📫 How to reach me: tkarnrwl78627862@gmail.com ;
-- [x] 💘 ***My Project Portfolio (PDF)*** [Link](https://github.com/minsekim1/minsekim1/blob/main/minsekim_portfolio.pdf)
+---
 
-# Table of Contents
-1. [Summary](#1-summary)
-   - [My Notes](#1-1-my-notes)
-   - [My Book](#1-2-my-book)
-   - [My Main Skills](#1-3-my-main-skills)
-   - [My Sub Skills](#1-4-my-sub-skills)
-2. [Detail Career History](#2-detail-career-history)
-   - [Education](#2-1-education)
-   - [Company History](#2-2-company-history)
-   - [Mentoring](#2-3-mentoring)
-   - [Research](#2-4-research)
-   - [Awards](#2-5-awards)
-   - [Outsourcing](#2-6-outsourcing)
-   - [Clubs](#2-7-clubs)
-3. [Project Activity](#3-project-activity)
-   - [End Project](#3-1-end-project)
-4. [etc.](#5-etc) 
+# Summary
+- 💻 **Main Skills**: Node.js, React, AWS, Swift, Java
+- 📂 **Experience**: Tech Leader at 4dayworks, F/E Developer at Circlin
+- 🏫 **Education**: Sahmyook University (BSc in Computer Engineering)
+- 🏆 **Awards**: COMUP 글로벌 스타트업 경진대회 TOP 40, 창업 경진대회 최우수상
+- 🔗 **Links**: [Notion Notes](https://minsekim1.notion.site/f8262160d67a4315873a615d460b2980?pvs=4)
 
-# #1. Summary
-## #1-1. My Notes
-- [x] 💾 [Notion](https://minsekim1.notion.site/f8262160d67a4315873a615d460b2980?pvs=4)
-## #1-2. My Book
-- [x] 📘 [복사 & 붙여넣기로 따라 하는 트렌디한 웹앱 서비스 개발](https://fastcampus.co.kr/books/211716)
-## #1-3. My Main Skills
-1. BE - Node.js & Express.js / MySQL8
-2. Infra: AWS / Ubuntu / Linux
-3. FE: React(typesciprt) & Next.js & React-Native
-4. Native: iOS (Swift) / Android (JAVA)
-## #1-4. My Sub Skills
-- [X] python / JAVA / C
+---
 
+# Career History
+### **4dayworks Inc.** (2022.06 - 2024.12)
+- Role: Tech Leader
+- Projects: [Yagiyagi](https://www.yagiyagi.kr), [캠퍼레스트](https://www.camperest.kr)
+
+### **Circlin** (2021.07 - 2022.04)
+- Role: Frontend Developer
+- Focus: React.js-based UI development
+
+---
+
+# Education
+- **Sahmyook University**: BSc in Computer Engineering (2018 - 2023)
+- **Kwangwoon Electronics Technical High School**: Electronics (2010 - 2016)
+
+---
+
+# Projects
+- [React Native Campustaxi App](https://github.com/Mins97/CampusTaxi): Multi-platform transportation app.
+- [ValinaJS 42-Report-Calendar](https://github.com/Mins97/42-Report-Calendar): Report tracking tool.
+- [BlocklyJS Site](https://blocklyjs.web.app): Visual programming environment.
 
 ---
 
 
+
 # #2. Detail Career History
 
-## #2-1. Company History
-- [x] 2022/06/20 ~ 2024/12/31 ) 👨‍💻🏕️ Tech Leader - 4dayworks Inc. (Service1: [Yagiyagi](https://www.yagiyagi.kr), Service2: [캠퍼레스트](https://www.camperest.kr/))
-- [x] 2021/07 ~ 2022/04 ) 🖥️🏋 F/E developer [Circlin](https://www.google.com/search?q=%EC%8D%A8%ED%81%B4%EC%9D%B8&oq=%EC%8D%A8%ED%81%B4%EC%9D%B8&aqs=chrome..69i57j69i59l2.1489j0j7&sourceid=chrome&ie=UTF-8)
-
-## #2-2. Education
-- [x] 2018/03 ~ 2023/03 ) Seoul [Sahmyook University](https://www.syu.ac.kr/) Computer Engineering Bachelor of science - Graduated
-- [x] 2010/03 ~ 2016/02 ) Seoul [Kwangwoon Electronics Technical High School](https://kwangwoon.sen.hs.kr/)
-- [x] ~ 2010/02 ) Seoul [Hwagye Elementary School](https://hwagye.sen.es.kr/)
-
-## #2-3. Mentoring
+## #2-1. Mentoring
 - [x] 2024/06 ~ 2024/11 ) 🏫 2024 Kakao Tech Campus 2기 Mentor (F/E) - [Link](https://www.kakaotechcampus.com/) [GitHub](https://github.com/kakao-tech-campus-2nd-step2)
 - [X] 2024/03 ~ 2024/06 ) 🏫 2024 Sahmyook University Capstone Design Mentor (AI) - [DB Personalization - Search & Recommendation Logic Implementation](https://minsekim1.notion.site/DB-47a6af268ef742f5a498df3948759e40?pvs=4) [Github](https://github.com/SWproject-syu/capstone-2024-DB-search)
 - [X] 2023/03 ~ 2023/06 ) 🏫 2023 Sahmyook University Capstone Design Mentor (AI) - [Ai pill multi-object recognition](https://www.notion.so/OCR-8dfd799d977a45d98ad79d2da3911dee?pvs=4) [Github](https://github.com/SWproject-syu)
 - [x] 2022/10 ~ 2022/12 ) 🏫 2022 Naver Connect Boost Camp 웹모바일 7기 Mentor (B/E) - [Link](https://boostcamp.connect.or.kr) [GitHub](https://github.com/boostcampwm-2022)
 
-## #2-4. Research
+## #2-2. Research
 - [x] 2020/04 ~ 2022/12 ) 🏫 Undergraduate researcher in [BigLab](https://cafe.naver.com/biglab) for AI
 
-## #2-5. Awards
+## #2-3. Awards
 - [X] 2023/11 ) 스타트업 글로벌 경진대회 컴업 (GLOBAL STARTUP FESTICAL) 포데이웍스 팀 - (40/200)위권 진입 [Link](https://www.comeup.org/stars/alumni)
 - [X] 2020.11 ) 삼육대 학부경진대회 (캠퍼스택시) - 특별상
 - [X] 2020 ) 인덕대학교 캠퍼스타운 (I-CULTURE-DU) - 최우수상 1등상
@@ -79,11 +68,11 @@ Here are some ideas to get you started:
 - [X] 2020/04 ) 2019 강북구 청년도전 프로젝트 - Passed
 - [X] 2019 ) 서울시립대 창업 경진대회 - 3등상
 
-## #2-6. Outsourcing
+## #2-4. Outsourcing
 - [X] 2023/08 ~ 2023/11 ) 신스타 F/E React-Native [Client-APP](https://play.google.com/store/apps/details?id=com.shinstarr.clientapp) And [Drive-APP](https://play.google.com/store/apps/details?id=com.olhso.driver.app) development
 - [X] 2023/06 ~ 2023/08 ) 리얼라이너 F/E [Admin-Web](https://realigner.vercel.app/) development
 
-## #2-7. Clubs
+## #2-5. Clubs
 - [x] ~ 2022/03 ) Developer Student Clubs in SYU ([DSC PNU](https://sites.google.com/view/dscsahmyook))
 - [x] ~ 2021/12 ) Seoul42 3rd Cadet [42Seoul](https://42seoul.kr)
 - [x] ~ 2021/07 ) startup CTO for Campustaxi Corporation [Android App](https://play.google.com/store/apps/details?id=com.campustaxi.campustaxi&hl=ko&gl=US) [iOS App](https://apps.apple.com/app/id1534509768) [website](https://campustaxi.modoo.at) [Youtube1](https://www.youtube.com/watch?v=5P2Nu_oR_a4) [Youtube2](https://www.youtube.com/watch?v=lEqMnIXH4QA)
