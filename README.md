@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 # Career History
 ### **4dayworks Inc.** (2022.06 - 2024.12)
-- Role: Tech Leader
+- Role: Tech Leader (Backend)
 - Projects: [Yagiyagi](https://www.yagiyagi.kr), [캠퍼레스트](https://www.camperest.kr)
 
 ### **Circlin** (2021.07 - 2022.04)
