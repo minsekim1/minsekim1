@@ -63,10 +63,10 @@ Here are some ideas to get you started:
 - [x] ~ 2010/02 ) Seoul [Hwagye Elementary School](https://hwagye.sen.es.kr/)
 
 ## #2-3. Mentoring
-- [x] 2024/06 ~ 2024/11 ) 🏫 2024 Kakao Tech Campus (Boost Camp) Mentor (F/E) - [Link](https://www.kakaotechcampus.com/) [GitHub](https://github.com/kakao-tech-campus-2nd-step2)
+- [x] 2024/06 ~ 2024/11 ) 🏫 2024 Kakao Tech Campus 2기 Mentor (F/E) - [Link](https://www.kakaotechcampus.com/) [GitHub](https://github.com/kakao-tech-campus-2nd-step2)
 - [X] 2024/03 ~ 2024/06 ) 🏫 2024 Sahmyook University Capstone Design Mentor (AI) - [DB Personalization - Search & Recommendation Logic Implementation](https://minsekim1.notion.site/DB-47a6af268ef742f5a498df3948759e40?pvs=4) [Github](https://github.com/SWproject-syu/capstone-2024-DB-search)
 - [X] 2023/03 ~ 2023/06 ) 🏫 2023 Sahmyook University Capstone Design Mentor (AI) - [Ai pill multi-object recognition](https://www.notion.so/OCR-8dfd799d977a45d98ad79d2da3911dee?pvs=4) [Github](https://github.com/SWproject-syu)
-- [x] 2022/10 ~ 2022/12 ) 🏫 2022 Naver Connect Boost Camp Mentor (B/E) - [Link](https://boostcamp.connect.or.kr) [GitHub](https://github.com/boostcampwm-2022)
+- [x] 2022/10 ~ 2022/12 ) 🏫 2022 Naver Connect Boost Camp 웹모바일 7기 Mentor (B/E) - [Link](https://boostcamp.connect.or.kr) [GitHub](https://github.com/boostcampwm-2022)
 
 ## #2-4. Research
 - [x] 2020/04 ~ 2022/12 ) 🏫 Undergraduate researcher in [BigLab](https://cafe.naver.com/biglab) for AI
