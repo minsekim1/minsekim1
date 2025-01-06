@@ -83,11 +83,10 @@ Here are some ideas to get you started:
 ## Project
 1. This is Hosting [BlocklyJS firebase site](https://blocklyjs.web.app)
 2. [ValinaJS 42-Report-Calendar](https://github.com/Mins97/42-Report-Calendar) [Git Page](https://mins97.github.io/42-Report-Calendar) [EC2 Hosting](http://42report.today/?id=jo) [DataUrl](http://42report.today/intra?id=jo)
-3. 강의평가 사이트 [jsp_evalLectureSite](https://github.com/Mins97/jsp_evalLectureSite)
-4. [React Native Docs](https://github.com/React-Native-docs/React-Native-docs)
-5. [React Native Campustaxi App](https://github.com/Mins97/CampusTaxi)
-6. Open Source Project [OSS](https://www.oss.kr) & [Kubernetes Contributor](https://kubernetes.io/ko/docs/home)
-7. Metenet Project VOD 관리 플랫폼 [Github Repo](https://github.com/DADAIKSEON/metanet_internship_project2)
+3. 강의평가 사이트 [Git URL](https://github.com/Mins97/jsp_evalLectureSite)
+4. RN DOC - React Native Docs [Git URL](https://github.com/React-Native-docs/React-Native-docs)
+5. 캠퍼스택시 - 백엔드 Nodejs & Socket Server [Git URL](https://github.com/Mins97/CampusTaxi)
+7. 메타넷 - Project VOD 관리 플랫폼 [Git URL](https://github.com/DADAIKSEON/metanet_internship_project2)
 
 ---
 
