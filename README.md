@@ -36,14 +36,6 @@ Here are some ideas to get you started:
 
 # Education
 - **Sahmyook University**: BSc in Computer Engineering (2018 - 2023)
-- **Kwangwoon Electronics Technical High School**: Electronics (2010 - 2016)
-
----
-
-# Projects
-- [React Native Campustaxi App](https://github.com/Mins97/CampusTaxi): Multi-platform transportation app.
-- [ValinaJS 42-Report-Calendar](https://github.com/Mins97/42-Report-Calendar): Report tracking tool.
-- [BlocklyJS Site](https://blocklyjs.web.app): Visual programming environment.
 
 ---
 
@@ -74,11 +66,7 @@ Here are some ideas to get you started:
 - [x] ~ 2022/03 ) Developer Student Clubs in SYU ([DSC PNU](https://sites.google.com/view/dscsahmyook))
 - [x] ~ 2021/12 ) Seoul42 3rd Cadet [42Seoul](https://42seoul.kr)
 - [x] ~ 2021/07 ) startup CTO for Campustaxi Corporation [Android App](https://play.google.com/store/apps/details?id=com.campustaxi.campustaxi&hl=ko&gl=US) [iOS App](https://apps.apple.com/app/id1534509768) [website](https://campustaxi.modoo.at) [Youtube1](https://www.youtube.com/watch?v=5P2Nu_oR_a4) [Youtube2](https://www.youtube.com/watch?v=lEqMnIXH4QA)
-
-
----
-
-
+- [ ] 
 # Private Project Activity
 ## Project
 1. 서울42 보고서 캘린더 - [Git URL](https://github.com/Mins97/42-Report-Calendar)
