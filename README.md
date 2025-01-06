@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 # Private Project Activity
 ## Project
 1. This is Hosting [BlocklyJS firebase site](https://blocklyjs.web.app)
-2. [ValinaJS 42-Report-Calendar](https://github.com/Mins97/42-Report-Calendar) [Git Page](https://mins97.github.io/42-Report-Calendar) [EC2 Hosting](http://42report.today/?id=jo) [DataUrl](http://42report.today/intra?id=jo)
+2. 서울42 보고서 캘린더 - [Git URL](https://github.com/Mins97/42-Report-Calendar)
 3. 강의평가 사이트 [Git URL](https://github.com/Mins97/jsp_evalLectureSite)
 4. RN DOC - React Native Docs [Git URL](https://github.com/React-Native-docs/React-Native-docs)
 5. 캠퍼스택시 - 백엔드 Nodejs & Socket Server [Git URL](https://github.com/Mins97/CampusTaxi)
