@@ -87,15 +87,7 @@ Here are some ideas to get you started:
 4. [React Native Docs](https://github.com/React-Native-docs/React-Native-docs)
 5. [React Native Campustaxi App](https://github.com/Mins97/CampusTaxi)
 6. Open Source Project [OSS](https://www.oss.kr) & [Kubernetes Contributor](https://kubernetes.io/ko/docs/home)
-7. Metenet Project VOD 관리 플랫폼
-<table>
-  <tr>
-    <td><img width="400" alt="스크린샷 2022-05-22 오전 11 31 34" src="https://user-images.githubusercontent.com/23623248/169675806-44a443db-457c-4f77-bb82-cc90fa98b22f.png"/></td>
-    <td><img width="400" alt="스크린샷 2022-05-22 오전 11 31 25" src="https://user-images.githubusercontent.com/23623248/169675811-4db926a4-0b6f-493e-aa86-1f665ad4353b.png"/></td>
-    <td><img width="400" alt="스크린샷 2022-05-22 오후 12 39 25" src="https://user-images.githubusercontent.com/23623248/169677389-805b1b1d-2542-466b-abc6-2d59f7f688fe.png"/></td>
-  </tr>
-</table>
-
+7. Metenet Project VOD 관리 플랫폼 [Github Repo](https://github.com/DADAIKSEON/metanet_internship_project2)
 
 ---
 
