@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ---
 
 # Career History
-### **Standards & Companies** (2022.06 - 2024.12)
+### **Standards & Companies** (2025.02 - now)
 - Role: Software Certification Dept. (Associate Manager)
 - Website: [Link](http://stanco.or.kr/)
 
