@@ -24,13 +24,17 @@ Here are some ideas to get you started:
 ---
 
 # Career History
+### **Standards & Companies** (2022.06 - 2024.12)
+- Role: Software Certification Dept. (Associate Manager)
+- Website: [Link](http://stanco.or.kr/)
+
 ### **4dayworks Inc.** (2022.06 - 2024.12)
 - Role: Tech Leader (Backend)
 - Projects: [Yagiyagi](https://www.yagiyagi.kr), [캠퍼레스트](https://www.camperest.kr)
 
 ### **Circlin** (2021.07 - 2022.04)
 - Role: Frontend Developer
-- Focus: React.js-based UI development
+- Job: React.js-based UI development
 
 ---
 
