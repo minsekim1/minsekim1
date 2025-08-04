@@ -106,10 +106,10 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minsekim1&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/minsekim1"
   width="600"
   height="300"
 />
-</a> 
+</a>
